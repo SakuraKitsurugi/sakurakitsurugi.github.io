@@ -6,7 +6,7 @@
 | FerriteCore | Performance | - |
 | ModernFix | Performance | - |
 | Debugify | Bugfix | - |
-| - | - | - |
+| AppleSkin | Utility | - |
 
 ## Client-side (Mods)[^2]
 
@@ -18,8 +18,9 @@
 | More Culling | Performance | - |
 | Sodium | Performance | - |
 | Krypton | Performance | - |
-| - | Visual | - |
-| - | - | - |
+| Dynamic FPS | Performance | - |
+| Continuity | Visual | - |
+| BetterF3 | Utility | - |
 
 ## Client-side (Resource/Shader Packs)[^2]
 
@@ -37,8 +38,10 @@
 | Noisium | Performance | - |
 | Clumps | Performance | - |
 | Structure Layour Optimizer | Performance | - |
+| NetherPortalFix | Bugfix | - |
+| TabTPS | Utility | - |
 | Chunky | Utility | - |
 
-[^1]: Libraries and dependancies are not included in the list.
+[^1]: Libraries and dependancies are not included in the list. Going to create default configs later using [Default Options](https://modrinth.com/mod/default-options).
 [^2]: Most of the mods can be removed.
 [^3]: Only necessary when hosting a server or playing the modpack in singleplayer. Need manual download.
