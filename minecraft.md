@@ -1,13 +1,14 @@
-## Core
+## Core[^1]
 
 | Mod | Type | Notes |
 |:---|:---:|:---:|
 | C2ME | Performance | - |
 | FerriteCore | Performance | - |
 | ModernFix | Performance | - |
+| Debugify | Bugfix | - |
 | - | - | - |
 
-## Client-side (Mods)[^1]
+## Client-side (Mods)[^2]
 
 | Mod | Type | Notes |
 |:---|:---:|:---:|
@@ -16,10 +17,11 @@
 | ImmediatelyFast | Performance | - |
 | More Culling | Performance | - |
 | Sodium | Performance | - |
+| Krypton | Performance | - |
 | - | Visual | - |
 | - | - | - |
 
-## Client-side (Resource/Shader Packs)[^1]
+## Client-side (Resource/Shader Packs)[^2]
 
 | Mod | Type | Notes |
 |:---|:---:|:---:|
@@ -27,7 +29,7 @@
 | - | Shader Pack | - |
 | - | - | - |
 
-## Server-side[^2]
+## Server-side[^3]
 
 | Mod | Type | Notes |
 |:---|:---:|:---:|
@@ -35,8 +37,8 @@
 | Noisium | Performance | - |
 | Clumps | Performance | - |
 | Structure Layour Optimizer | Performance | - |
-| - | - | - |
+| Chunky | Utility | - |
 
-
-[^1]: Most of the mods can be removed.
-[^2]: Only necessary when hosting a server or playing the modpack in singleplayer. Need manual download.
+[^1]: Libraries and dependancies are not included in the list.
+[^2]: Most of the mods can be removed.
+[^3]: Only necessary when hosting a server or playing the modpack in singleplayer. Need manual download.
