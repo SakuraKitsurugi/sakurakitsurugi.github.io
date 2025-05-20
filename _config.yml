@@ -1,17 +1,3 @@
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
+theme: "minima"
 
 include: ["_pages"]
-
-minimal_mistakes_skin: default
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      sidebar:
-        nav: "minecraft" 
-      author_profile: false
