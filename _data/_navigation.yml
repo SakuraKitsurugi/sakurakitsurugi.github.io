@@ -11,5 +11,3 @@ main:
         url: "/client-side-mods/"
       - title: "Server-side Mods"
         url: "/server-side-mods/"
-  - title: "Minecraft Hub"
-    url: "/minecraft-hub/"
