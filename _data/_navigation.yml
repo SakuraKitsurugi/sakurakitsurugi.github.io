@@ -1,8 +1,5 @@
 main:
-  - title: "Sakura"
-    url: "/"
   - title: "Minecraft"
-    children:
       - title: "Kitsuryūki Modpack"
         url: "/kitsuryuki-modpack/"
       - title: "Both-side Mods"
@@ -11,5 +8,3 @@ main:
         url: "/client-side-mods/"
       - title: "Server-side Mods"
         url: "/server-side-mods/"
-  - title: "Minecraft Hub"
-    url: "/minecraft-hub/"
