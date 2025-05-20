@@ -7,3 +7,7 @@ header_pages:
   - _pages/client_side_mods.md
   - _pages/both_side_mods.md
   - _pages/server_side_mods.md
+
+minima:
+  include_styles:
+    - /assets/css/custom.css
