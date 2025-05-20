@@ -6,14 +6,6 @@ include: ["_pages"]
 
 minimal_mistakes_skin: default
 
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-
 defaults:
   - scope:
       path: ""
@@ -21,5 +13,5 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: "" 
+        nav: "minecraft" 
       author_profile: false
