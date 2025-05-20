@@ -1,8 +1,7 @@
 ---
 title: Kitsuryūki Modpack
-permalink: /kitsuryuki_modpack/
-sidebar:
-  nav: minecraft
+layout: default
+permalink: /
 ---
 ## Core [^1]
 
