@@ -1,16 +1,4 @@
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: contrast
 plugins:
   - jekyll-include-cache
-
-navigation: true
-
-include:
-  - _pages
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: false
