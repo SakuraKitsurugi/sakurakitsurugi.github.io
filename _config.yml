@@ -9,5 +9,4 @@ header_pages:
   - _pages/server_side_mods.md
 
 minima:
-  include_styles:
-    - /assets/css/custom.css
+  skin: dark
