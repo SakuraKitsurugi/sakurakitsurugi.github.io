@@ -1,5 +1,6 @@
 main:
   - title: "Minecraft"
+  children:
       - title: "Kitsuryūki Modpack"
         url: "/kitsuryuki-modpack/"
       - title: "Both-side Mods"
