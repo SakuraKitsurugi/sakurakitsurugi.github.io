@@ -1,5 +1,5 @@
 ---
-title: Kitsuryūki Modpack
+title: Modpack
 layout: default
 permalink: /
 ---
