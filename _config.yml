@@ -3,6 +3,7 @@ theme: "minima"
 include: ["_pages"]
 
 header_pages:
+  - _pages/minecraft_modpack.md
   - _pages/client_side_mods.md
   - _pages/both_side_mods.md
   - _pages/server_side_mods.md
