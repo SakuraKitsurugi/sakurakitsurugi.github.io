@@ -1,7 +1,9 @@
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
-  
+
+navigation: true
+
 include:
   - _pages
 
