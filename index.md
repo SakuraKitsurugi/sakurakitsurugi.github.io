@@ -1,4 +1,4 @@
 ---
 title: Minecraft Hub
-layout: default
+layout: home
 ---
