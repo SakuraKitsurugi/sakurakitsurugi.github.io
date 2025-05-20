@@ -5,11 +5,13 @@ main:
     url: "/kitsuryuki_modpack/"
 
 minecraft:
-  - title: "Kitsuryūki Modpack"
-    url: "/kitsuryuki_modpack/"
-  - title: "Both-side Mods"
-    url: "/both_side_mods/"
-  - title: "Client-side Mods"
-    url: "/client_side_mods/"
-  - title: "Server-side Mods"
-    url: "/server_side_mods/"
+  - title: "Minecraft"
+  children:
+    - title: "Kitsuryūki Modpack"
+      url: "/kitsuryuki_modpack/"
+    - title: "Both-side Mods"
+      url: "/both_side_mods/"
+    - title: "Client-side Mods"
+      url: "/client_side_mods/"
+    - title: "Server-side Mods"
+      url: "/server_side_mods/"
