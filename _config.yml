@@ -3,6 +3,6 @@ theme: "minima"
 include: ["_pages"]
 
 header_pages:
-  - client_side_mods.md
-  - both_side_mods.md
+  - _pages/client_side_mods.md
+  - pages/both_side_mods.md
   - server_side_mods.md
