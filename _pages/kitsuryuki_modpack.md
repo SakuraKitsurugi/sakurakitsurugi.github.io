@@ -47,6 +47,9 @@ permalink: /
 | NetherPortalFix | Bugfix |
 | TabTPS | Utility |
 | Chunky | Utility |
+| [Create Track Map](https://modrinth.com/mod/create-track-map) | Map |
+| [Dynmap](https://modrinth.com/plugin/dynmap) | Map |
+| [dynmap-trains](https://github.com/Zhincore/dynmap-trains) | Map |
 
 [^1]: Libraries and dependancies are not included in the list. Going to create default configs later using [Default Options](https://modrinth.com/mod/default-options) Mod.
 [^2]: Most of the mods can be removed.
