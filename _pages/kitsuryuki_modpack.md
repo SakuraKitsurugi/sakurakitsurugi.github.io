@@ -15,17 +15,18 @@ permalink: /
 
 ## Client-side (Mods)[^2]
 
-| Mod | Type | Notes |
-|:---|:---:|:---:|
-| Enhanced Block Entities | Performance | - |
-| Entity Culling | Performance | - |
-| ImmediatelyFast | Performance | - |
-| More Culling | Performance | - |
-| Sodium | Performance | - |
-| Krypton | Performance | - |
-| Dynamic FPS | Performance | - |
-| Continuity | Visual | - |
-| BetterF3 | Utility | - |
+| Mod                     |    Type     | Notes |
+| :---------------------- | :---------: | :---: |
+| Enhanced Block Entities | Performance |   -   |
+| Entity Culling          | Performance |   -   |
+| ImmediatelyFast         | Performance |   -   |
+| More Culling            | Performance |   -   |
+| Sodium                  | Performance |   -   |
+| Krypton                 | Performance |   -   |
+| Dynamic FPS             | Performance |   -   |
+| Continuity              |   Visual    |   -   |
+| BetterF3                |   Utility   |   -   |
+| Mod Menu                |   Utility   |   -   |
 
 ## Client-side (Resource/Shader Packs)[^2]
 
