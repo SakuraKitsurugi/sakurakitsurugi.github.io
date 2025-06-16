@@ -7,46 +7,46 @@ permalink: /
 
 | Mod | Type | Notes |
 |:---|:---:|:---:|
-| C2ME | Performance | - |
-| FerriteCore | Performance | - |
-| ModernFix | Performance | - |
-| Debugify | Bugfix | - |
-| AppleSkin | Utility | - |
+| C2ME | Performance | ✅ |
+| FerriteCore | Performance | ✅ |
+| ModernFix | Performance | ✅ |
+| Debugify | Bugfix | ✅ |
+| AppleSkin | Utility | ✅ |
 
 ## Client-side (Mods)[^2]
 
-| Mod                     |    Type     | Notes |
-| :---------------------- | :---------: | :---: |
-| Enhanced Block Entities | Performance |   -   |
-| Entity Culling          | Performance |   -   |
-| ImmediatelyFast         | Performance |   -   |
-| More Culling            | Performance |   -   |
-| Sodium                  | Performance |   -   |
-| Krypton                 | Performance |   -   |
-| Dynamic FPS             | Performance |   -   |
-| Continuity              |   Visual    |   -   |
-| BetterF3                |   Utility   |   -   |
-| Mod Menu                |   Utility   |   -   |
+| Mod                     |    Type     |
+| :---------------------- | :---------: |
+| Enhanced Block Entities | Performance |
+| Entity Culling          | Performance |
+| ImmediatelyFast         | Performance |
+| More Culling            | Performance |
+| Sodium                  | Performance |
+| Krypton                 | Performance |
+| Dynamic FPS             | Performance |
+| Continuity              |   Visual    |
+| BetterF3                |   Utility   |
+| Mod Menu                |   Utility   |
 
 ## Client-side (Resource/Shader Packs)[^2]
 
-| Mod | Type | Notes |
-|:---|:---:|:---:|
-| - | Resource Pack | - |
-| - | Shader Pack | - |
-| - | - | - |
+| Mod | Type |
+|:---|:---:|
+| - | Resource Pack |
+| - | Shader Pack |
+| - | - |
 
 ## Server-side[^3]
 
-| Mod | Type | Notes |
-|:---|:---:|:---:|
-| Lithium | Performance | - |
-| Noisium | Performance | - |
-| Clumps | Performance | - |
-| Structure Layour Optimizer | Performance | - |
-| NetherPortalFix | Bugfix | - |
-| TabTPS | Utility | - |
-| Chunky | Utility | - |
+| Mod | Type |
+|:---|:---:|
+| Lithium | Performance |
+| Noisium | Performance |
+| Clumps | Performance |
+| Structure Layour Optimizer | Performance |
+| NetherPortalFix | Bugfix |
+| TabTPS | Utility |
+| Chunky | Utility |
 
 [^1]: Libraries and dependancies are not included in the list. Going to create default configs later using [Default Options](https://modrinth.com/mod/default-options) Mod.
 [^2]: Most of the mods can be removed.
