@@ -17,11 +17,11 @@ permalink: /
 | Mod                                                          |    Type     | Forge (1.20.1) | Fabric (1.20.1) |                NeoForge (1.21.1)                | ADDED |
 | :----------------------------------------------------------- | :---------: | :------------: | :-------------: | :---------------------------------------------: | :---: |
 | [Enhanced Block Entities](https://modrinth.com/mods/)        | Performance |       ❌        |        ✅        |                        ❌                        |  💬   |
-| [Entity Culling](https://modrinth.com/mods/entityculling)    | Performance |     ✅<br>      |        ✅        |                      ✅<br>                      |  💬   |
-| [ImmediatelyFast](https://modrinth.com/mods/immediatelyfast) | Performance |     ✅<br>      |        ✅        |                      ✅<br>                      |  💬   |
-| [More Culling](https://modrinth.com/mods/moreculling)        | Performance |       ❌        |        ✅        |                      ✅<br>                      |  💬   |
-| [Sodium](https://modrinth.com/mods/sodium)                   | Performance |       ❌        |        ✅        |                      ✅<br>                      |  💬   |
-| [Indium](https://modrinth.com/mods/indium)                   |   Utility   |       ❌        |      ✅<br>      |                        ❌                        |  💬   |
+| [Entity Culling](https://modrinth.com/mods/entityculling)    | Performance |       ✅        |        ✅        |                        ✅                        |  💬   |
+| [ImmediatelyFast](https://modrinth.com/mods/immediatelyfast) | Performance |       ✅        |        ✅        |                        ✅                        |  💬   |
+| [More Culling](https://modrinth.com/mods/moreculling)        | Performance |       ❌        |        ✅        |                        ✅                        |  💬   |
+| [Sodium](https://modrinth.com/mods/sodium)                   | Performance |       ❌        |        ✅        |                        ✅                        |  💬   |
+| [Indium](https://modrinth.com/mods/indium)                   |   Utility   |       ❌        |        ✅        |                        ❌                        |  💬   |
 | [Krypton](https://modrinth.com/mods/krypton)                 | Performance |       ❌        |        ✅        | [⚠️](https://modrinth.com/mod/krypton-foxified) |  💬   |
 | [Dynamic FPS](https://modrinth.com/mods/dynamic-fps)         | Performance |       ✅        |        ✅        |                        ✅                        |  💬   |
 | [Continuity](https://modrinth.com/mods/continuity)           |   Visual    |       ✅        |        ✅        |                        ✅                        |  💬   |
