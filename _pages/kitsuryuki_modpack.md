@@ -5,10 +5,10 @@ permalink: /
 ---
 ## Core [^1]
 
-| Mod                                             |  Type   | Neo (1.21.1) | ADDED |
-| :---------------------------------------------- | :-----: | :----------: | :---: |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | Utility |      ✅       |  💬   |
-| [Create](https://modrinth.com/mod/create)       | Create  |      ✅       |  💬   |
+| Mod                                             |  Type   | Neo (1.21.1) |
+| :---------------------------------------------- | :-----: | :----------: |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | Utility |      ✅       |
+| [Create](https://modrinth.com/mod/create)       | Create  |      ✅       |
 
 ## Client-side (Mods)[^2]
 
@@ -33,19 +33,19 @@ permalink: /
 | :--------------------------------------------------------------------- | :-----------: | :--------: |
 | [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) | Resource Pack |     ✅      |
 | [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-moves)      | Resource Pack |     ✅      |
-|                                                                        |  Shader Pack  |            |
 
 ## Server-side[^3]
 
-| Mod                                                                               |    Type     | Neo (1.21.1) |
-| :-------------------------------------------------------------------------------- | :---------: | :----------: |
-| [FerriteCore](https://modrinth.com/mod/ferrite-core)                              | Performance |      ✅       |
-| [ModernFix](https://modrinth.com/mod/modernfix)                                   | Performance |      ✅       |
-| [Lithium](https://modrinth.com/mod/lithium)                                       | Performance |      ✅       |
-| [Noisium](https://modrinth.com/mod/noisium)                                       | Performance |      ✅       |
-| [Clumps](https://modrinth.com/mod/clumps)                                         | Performance |      ✅       |
-| [Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer) | Performance |      ✅       |
-| [NetherPortalFix](https://modrinth.com/mod/netherportalfix)                       |   Bugfix    |      ✅       |
+| Mod                                                                               |     Type     | Neo (1.21.1) |
+| :-------------------------------------------------------------------------------- | :----------: | :----------: |
+| [FerriteCore](https://modrinth.com/mod/ferrite-core)                              | Optimization |      ✅       |
+| [ModernFix](https://modrinth.com/mod/modernfix)                                   | Optimization |      ✅       |
+| [Lithium](https://modrinth.com/mod/lithium)                                       | Optimization |      ✅       |
+| [Noisium](https://modrinth.com/mod/noisium)                                       | Optimization |      ✅       |
+| [Clumps](https://modrinth.com/mod/clumps)                                         | Optimization |      ✅       |
+| [Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer) | Optimization |      ✅       |
+| [NetherPortalFix](https://modrinth.com/mod/netherportalfix)                       |    Bugfix    |      ✅       |
+| [ServerCore](https://modrinth.com/mod/servercore)                                 | Optimization |      ✅       |
 
 ## Server-core[^4]
 
@@ -55,6 +55,6 @@ permalink: /
 
 [^1]: Libraries and dependancies are not included in the list. Going to create default configs later using [Default Options](https://modrinth.com/mod/default-options) Mod.
 [^2]: Most of the mods can be removed.
-[^3]: Only necessary when playing the modpack in singleplayer. Will be either added to the modpack or will require manual download.
-[^4]: Only necessary when hosting a server for the modpack. Requires manual download.
+[^3]: Useful when playing the modpack in singleplayer (or hosting a server).
+[^4]: Only necessary/useful when hosting a server for the modpack. Requires manual download.
 
