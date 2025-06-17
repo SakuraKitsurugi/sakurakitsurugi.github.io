@@ -55,6 +55,6 @@ permalink: /
 
 [^1]: Libraries and dependancies are not included in the list. Going to create default configs later using [Default Options](https://modrinth.com/mod/default-options) Mod.
 [^2]: Most of the mods can be removed.
-[^3]: Useful when playing the modpack in singleplayer (or hosting a server).
+[^3]: Useful when playing the modpack in singleplayer (or hosting a server). Will create a separate modpack with anything server-side only removed.
 [^4]: Only necessary/useful when hosting a server for the modpack. Requires manual download.
 
