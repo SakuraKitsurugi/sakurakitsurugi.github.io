@@ -50,8 +50,8 @@ permalink: /mod_wishlist
 | [Create Track Map](https://modrinth.com/mod/create-track-map) | Map  |      ❌       |  🟢   |        |
 | [Dynmap](https://modrinth.com/plugin/dynmap)                  | Map  |      ❌       |  🟢   |        |
 | [dynmap-trains](https://github.com/Zhincore/dynmap-trains)    | Map  |      ❌       |   ❔   |        |
-## ADDING THESE WILL REMOVE LATER
 
+## ADDING THESE WILL REMOVE LATER
 | Mod                       |     | Side | Forge (1.20.1) | Neo (1.21) | Neo (1.21.1) | Notes            |
 | ------------------------- | --- | :--: | :------------: | :--------: | :----------: | ---------------- |
 | Continuity                |     |  C   |       ⚠️       |     ⚠️     |      ⚠️      | Requires Synitra |
