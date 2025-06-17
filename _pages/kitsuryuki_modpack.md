@@ -12,24 +12,28 @@ permalink: /
 
 ## Client-side (Mods)[^2]
 
-| Mod                                                           |    Type     | Neo (1.21.1) | ADDED |
-| :------------------------------------------------------------ | :---------: | :----------: | :---: |
-| [Entity Culling](https://modrinth.com/mod/entityculling)      | Performance |      ✅       |  💬   |
-| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)   | Performance |      ✅       |  💬   |
-| [More Culling](https://modrinth.com/mod/moreculling)          | Performance |      ✅       |  💬   |
-| [Sodium](https://modrinth.com/mod/sodium)                     | Performance |      ✅       |  💬   |
-| [Iris Shaders](https://modrinth.com/mod/iris)                 |   Visual    |      ✅       |  💬   |
-| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)           | Performance |      ✅       |  💬   |
-| [Create Better FPS](https://modrinth.com/mod/createbetterfps) | Performance |      ✅       |  💬   |
-| [BetterF3](https://modrinth.com/mod/betterf3)                 |   Utility   |      ✅       |  💬   |
-| [Resourcify](https://modrinth.com/mod/resourcify)             |   Utility   |      ✅       |  💬   |
+| Mod                                                                        |     Type     | Neo (1.21.1) | ADDED |
+| :------------------------------------------------------------------------- | :----------: | :----------: | :---: |
+| [Entity Culling](https://modrinth.com/mod/entityculling)                   | Optimization |      ✅       |  💬   |
+| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)                | Optimization |      ✅       |  💬   |
+| [More Culling](https://modrinth.com/mod/moreculling)                       | Optimization |      ✅       |  💬   |
+| [Sodium](https://modrinth.com/mod/sodium)                                  | Optimization |      ✅       |  💬   |
+| [Iris Shaders](https://modrinth.com/mod/iris)                              |    Visual    |      ✅       |  💬   |
+| [Iris + Flywheel](https://modrinth.com/mod/iris-flw-compat)                | Optimization |      ✅       |  💬   |
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)                        | Optimization |      ✅       |  💬   |
+| [Create Better FPS](https://modrinth.com/mod/createbetterfps)              | Optimization |      ✅       |  💬   |
+| [BetterF3](https://modrinth.com/mod/betterf3)                              |   Utility    |      ✅       |  💬   |
+| [Resourcify](https://modrinth.com/mod/resourcify)                          |   Utility    |      ✅       |  💬   |
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra)                      | Optimization |      ✅       |  💬   |
+| [⚠️ FastWorkbench](https://curseforge.com/minecraft/mc-mods/fastworkbench) | Optimization |      ✅       |  💬   |
 
 ## Client-side (Resource/Shader Packs)[^2]
 
-| Name |     Type      |
-| :--- | :-----------: |
-|      | Resource Pack |
-|      |  Shader Pack  |
+| Name                                                                   |     Type      |
+| :--------------------------------------------------------------------- | :-----------: |
+| [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) | Resource Pack |
+| [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-moves)      | Resource Pack |
+|                                                                        |  Shader Pack  |
 
 ## Server-side[^3]
 
@@ -45,12 +49,10 @@ permalink: /
 
 ## Server-core[^4]
 
-| Mod                                                           |  Type  | Neo (1.21.1) | ADDED |
-| :------------------------------------------------------------ | :----: | :----------: | :---: |
-| [Chunky](https://modrinth.com/mod/chunky)                     | Utiliy |      ✅       |  💬   |
-| [Create Track Map](https://modrinth.com/mod/create-track-map) |  Map   |      ❌       |  💬   |
-| [Dynmap](https://modrinth.com/plugin/dynmap)                  |  Map   |      ❌       |  💬   |
-| [dynmap-trains](https://github.com/Zhincore/dynmap-trains)    |  Map   |      ❌       |  💬   |
+| Mod                                       |  Type  | Neo (1.21.1) | ADDED |
+| :---------------------------------------- | :----: | :----------: | :---: |
+| [Chunky](https://modrinth.com/mod/chunky) | Utiliy |      ✅       |  💬   |
+
 
 [^1]: Libraries and dependancies are not included in the list. Going to create default configs later using [Default Options](https://modrinth.com/mod/default-options) Mod.
 [^2]: Most of the mods can be removed.
