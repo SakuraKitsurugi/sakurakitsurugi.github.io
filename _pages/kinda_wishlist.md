@@ -11,7 +11,7 @@ permalink: /mod_wishlist
 | Mod                  |   Neo (1.21.1)   | Notes                 |
 | -------------------- | :--------------: | --------------------- |
 | Cobblestone          |    ❌ 1.20.1 ❌    |                       |
-| Crafts & Addtitions  |        ✅         | INCOMPATIBLE WITH 6.0 |
+| Crafts & Addtitions  |        ✅         | Incompatible with 0.6 |
 | Deco                 | ❌ Forge 1.20.1 ❌ |                       |
 | Railways Navigator   |        ✅         |                       |
 | Bells & Whistles     |        ✅         |                       |
@@ -23,6 +23,8 @@ permalink: /mod_wishlist
 | New Age              |    ❌ 1.20.1 ❌    |                       |
 | Steam 'n' Rails      |    ❌ 1.20.1 ❌    |                       |
 | Power Loader         |        ✅         |                       |
+| Stuff 'N Additions   |        ✅         |                       |
+| Design n' Decor      |        ⚠️        | BETA                  |
 
 ## Core Mods
 
