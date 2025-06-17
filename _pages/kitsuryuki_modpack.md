@@ -14,6 +14,7 @@ permalink: /
 | [AppleSkin](https://modrinth.com/mods/appleskin)      |   Utility   |       ✅        |                     ✅                      |                      ✅                       |  💬   |
 
 ## Client-side (Mods)[^2]
+
 | Mod                                                          |    Type     | Forge (1.20.1) | Fabric (1.20.1) |                NeoForge (1.21.1)                | ADDED |
 | :----------------------------------------------------------- | :---------: | :------------: | :-------------: | :---------------------------------------------: | :---: |
 | [Enhanced Block Entities](https://modrinth.com/mods/)        | Performance |       ❌        |        ✅        |                        ❌                        |  💬   |
@@ -29,12 +30,14 @@ permalink: /
 | [Mod Menu](https://modrinth.com/mods/modmenu)                |   Utility   |       ❌        |        ✅        |                        ❌                        |  💬   |
 
 ## Client-side (Resource/Shader Packs)[^2]
+
 | Name |     Type      |
 | :--- | :-----------: |
 |      | Resource Pack |
 |      |  Shader Pack  |
 
 ## Server-side[^3]
+
 | Mod                                                                                |    Type     |            Forge (1.20.1)             | Fabric (1.20.1) | NeoForge (1.21.1) | ADDED |
 | :--------------------------------------------------------------------------------- | :---------: | :-----------------------------------: | :-------------: | :---------------: | :---: |
 | [Lithium](https://modrinth.com/mods/lithium)                                       | Performance | [⚠️](https://modrinth.com/mod/radium) |        ✅        |         ✅         |  💬   |
@@ -45,6 +48,7 @@ permalink: /
 | [TabTPS](https://modrinth.com/mods/tabtps)                                         |   Utility   |                   ❌                   |        ✅        |         ✅         |  💬   |
 
 ## Server-core[^4]
+
 | Mod                                                           |  Type  | Forge (1.20.1) | Fabric (1.20.1) | NeoForge (1.21.1) | ADDED |
 | :------------------------------------------------------------ | :----: | :------------: | :-------------: | :---------------: | :---: |
 | [Chunky](https://modrinth.com/mods/chunky)                    | Utiliy |                |        ✅        |                   |  💬   |
