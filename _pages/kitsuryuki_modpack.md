@@ -4,12 +4,14 @@ layout: default
 permalink: /
 ---
 ## Core [^1]
+
 | Mod                                             |  Type   | Neo (1.21.1) | ADDED |
 | :---------------------------------------------- | :-----: | :----------: | :---: |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | Utility |      ✅       |  💬   |
 | [Create](https://modrinth.com/mod/create)       | Create  |      ✅       |  💬   |
 
 ## Client-side (Mods)[^2]
+
 | Mod                                                                        |     Type     | Neo (1.21.1) |
 | :------------------------------------------------------------------------- | :----------: | :----------: |
 | [Entity Culling](https://modrinth.com/mod/entityculling)                   | Optimization |      ✅       |
@@ -26,6 +28,7 @@ permalink: /
 | [🟠 FastWorkbench](https://curseforge.com/minecraft/mc-mods/fastworkbench) | Optimization |      ✅       |
 
 ## Client-side (Resource/Shader Packs)[^2]
+
 | Name                                                                   |     Type      | Functional |
 | :--------------------------------------------------------------------- | :-----------: | :--------: |
 | [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) | Resource Pack |     ✅      |
@@ -33,6 +36,7 @@ permalink: /
 |                                                                        |  Shader Pack  |            |
 
 ## Server-side[^3]
+
 | Mod                                                                               |    Type     | Neo (1.21.1) |
 | :-------------------------------------------------------------------------------- | :---------: | :----------: |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)                              | Performance |      ✅       |
@@ -44,9 +48,10 @@ permalink: /
 | [NetherPortalFix](https://modrinth.com/mod/netherportalfix)                       |   Bugfix    |      ✅       |
 
 ## Server-core[^4]
-| Mod                                       |  Type  | Neo (1.21.1) |
-| :---------------------------------------- | :----: | :----------: |
-| [Chunky](https://modrinth.com/mod/chunky) | Utiliy |      ✅       |
+
+| Mod                                       |  Type   | Neo (1.21.1) |
+| :---------------------------------------- | :-----: | :----------: |
+| [Chunky](https://modrinth.com/mod/chunky) | Utility |      ✅       |
 
 [^1]: Libraries and dependancies are not included in the list. Going to create default configs later using [Default Options](https://modrinth.com/mod/default-options) Mod.
 [^2]: Most of the mods can be removed.
