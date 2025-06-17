@@ -26,6 +26,9 @@ permalink: /
 | [Resourcify](https://modrinth.com/mod/resourcify)                          |   Utility    |      ✅       |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra)                      | Optimization |      ✅       |
 | [🟠 FastWorkbench](https://curseforge.com/minecraft/mc-mods/fastworkbench) | Optimization |      ✅       |
+| No Telemetry                                                               |   Utility    |      ✅       |
+| No Chat Reports                                                            |   Utility    |      ✅       |
+| 🟠 Catalogue                                                               |   Utility    |      ✅       |
 
 ## Client-side (Resource/Shader Packs)[^2]
 
@@ -52,6 +55,9 @@ permalink: /
 | Mod                                       |  Type   | Neo (1.21.1) |
 | :---------------------------------------- | :-----: | :----------: |
 | [Chunky](https://modrinth.com/mod/chunky) | Utility |      ✅       |
+| [spark](https://modrinth.com/mod/spark)   | Utility |      ✅       |
+| No Chat Reports                           | Utility |      ✅       |
+| Too Fast                                  | Utility |      ✅       |
 
 [^1]: Libraries and dependancies are not included in the list. Going to create default configs later using [Default Options](https://modrinth.com/mod/default-options) Mod.
 [^2]: Most of the mods can be removed.
