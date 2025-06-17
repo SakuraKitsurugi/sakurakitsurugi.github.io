@@ -6,7 +6,7 @@ permalink: /mod_wishlist
 ✅ ❌ ⚠️ 🟠 - Available/Unavailable/Caveat/Curseforge
 
 ## Create-specific Mods
-[⚠️ 6.0 Compatibility ⚠️]([https://docs.google.com/spreadsheets/](https://docs.google.com/spreadsheets/d/1sEK9lDrp5nT00MzR6mSGFQzcq04kdcioGFuKwIqiavg))
+[⚠️ 0.6 Compatibility ⚠️]([https://docs.google.com/spreadsheets/](https://docs.google.com/spreadsheets/d/1sEK9lDrp5nT00MzR6mSGFQzcq04kdcioGFuKwIqiavg))
 
 | Mod                  | Neo (1.21.1) | LINR | Notes |
 | -------------------- | :----------: | :--: | ----- |
