@@ -5,9 +5,10 @@ permalink: /
 ---
 ## Core [^1]
 
-| Mod                                             |    Type     | Forge (1.20.1) | NeoForge (1.21.1) | ADDED |
-| :---------------------------------------------- | :---------: | :------------: | :---------------: | :---: |
-| [AppleSkin](https://modrinth.com/mod/appleskin) |   Utility   |       ✅        |         ✅         |  💬   |
+| Mod                                             |  Type   | Forge (1.20.1) | NeoForge (1.21.1) | ADDED |
+| :---------------------------------------------- | :-----: | :------------: | :---------------: | :---: |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | Utility |       ✅        |         ✅         |  💬   |
+| [Create](https://modrinth.com/mod/create)       | Create  |       ✅        |         ✅         |  💬   |
 
 ## Client-side (Mods)[^2]
 
@@ -20,8 +21,9 @@ permalink: /
 | [Iris Shaders](https://modrinth.com/mod/iris)                 |   Visual    |       ❌        |         ✅         |  💬   |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)           | Performance |       ✅        |         ✅         |  💬   |
 | [Create Better FPS](https://modrinth.com/mod/createbetterfps) | Performance |       ✅        |         ✅         |  💬   |
-| [Continuity](https://modrinth.com/mod/continuity)             |   Visual    |       ✅        |         ✅         |  💬   |
 | [BetterF3](https://modrinth.com/mod/betterf3)                 |   Utility   |       ✅        |         ✅         |  💬   |
+| [Resourcify](https://modrinth.com/mod/resourcify)             |   Utility   |       ✅        |         ✅         |  💬   |
+|                                                               |             |                |                   |       |
 
 ## Client-side (Resource/Shader Packs)[^2]
 
