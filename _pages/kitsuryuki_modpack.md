@@ -5,25 +5,24 @@ permalink: /
 ---
 ## Core [^1]
 
-| Mod                                             |  Type   | Forge (1.20.1) | NeoForge (1.21.1) | ADDED |
-| :---------------------------------------------- | :-----: | :------------: | :---------------: | :---: |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | Utility |       ✅        |         ✅         |  💬   |
-| [Create](https://modrinth.com/mod/create)       | Create  |       ✅        |         ✅         |  💬   |
+| Mod                                             |  Type   | Neo (1.21.1) | ADDED |
+| :---------------------------------------------- | :-----: | :----------: | :---: |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | Utility |      ✅       |  💬   |
+| [Create](https://modrinth.com/mod/create)       | Create  |      ✅       |  💬   |
 
 ## Client-side (Mods)[^2]
 
-| Mod                                                           |    Type     | Forge (1.20.1) | NeoForge (1.21.1) | ADDED |
-| :------------------------------------------------------------ | :---------: | :------------: | :---------------: | :---: |
-| [Entity Culling](https://modrinth.com/mod/entityculling)      | Performance |       ✅        |         ✅         |  💬   |
-| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)   | Performance |       ✅        |         ✅         |  💬   |
-| [More Culling](https://modrinth.com/mod/moreculling)          | Performance |       ❌        |         ✅         |  💬   |
-| [Sodium](https://modrinth.com/mod/sodium)                     | Performance |       ❌        |         ✅         |  💬   |
-| [Iris Shaders](https://modrinth.com/mod/iris)                 |   Visual    |       ❌        |         ✅         |  💬   |
-| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)           | Performance |       ✅        |         ✅         |  💬   |
-| [Create Better FPS](https://modrinth.com/mod/createbetterfps) | Performance |       ✅        |         ✅         |  💬   |
-| [BetterF3](https://modrinth.com/mod/betterf3)                 |   Utility   |       ✅        |         ✅         |  💬   |
-| [Resourcify](https://modrinth.com/mod/resourcify)             |   Utility   |       ✅        |         ✅         |  💬   |
-|                                                               |             |                |                   |       |
+| Mod                                                           |    Type     | Neo (1.21.1) | ADDED |
+| :------------------------------------------------------------ | :---------: | :----------: | :---: |
+| [Entity Culling](https://modrinth.com/mod/entityculling)      | Performance |      ✅       |  💬   |
+| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)   | Performance |      ✅       |  💬   |
+| [More Culling](https://modrinth.com/mod/moreculling)          | Performance |      ✅       |  💬   |
+| [Sodium](https://modrinth.com/mod/sodium)                     | Performance |      ✅       |  💬   |
+| [Iris Shaders](https://modrinth.com/mod/iris)                 |   Visual    |      ✅       |  💬   |
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)           | Performance |      ✅       |  💬   |
+| [Create Better FPS](https://modrinth.com/mod/createbetterfps) | Performance |      ✅       |  💬   |
+| [BetterF3](https://modrinth.com/mod/betterf3)                 |   Utility   |      ✅       |  💬   |
+| [Resourcify](https://modrinth.com/mod/resourcify)             |   Utility   |      ✅       |  💬   |
 
 ## Client-side (Resource/Shader Packs)[^2]
 
@@ -34,25 +33,24 @@ permalink: /
 
 ## Server-side[^3]
 
-| Mod                                                                               |    Type     |             Forge (1.20.1)              | NeoForge (1.21.1) | ADDED |
-| :-------------------------------------------------------------------------------- | :---------: | :-------------------------------------: | :---------------: | :---: |
-| [FerriteCore](https://modrinth.com/mod/ferrite-core)                              | Performance |                    ✅                    |         ✅         |  💬   |
-| [ModernFix](https://modrinth.com/mod/modernfix)                                   | Performance |                    ✅                    |         ✅         |  💬   |
-| [Lithium](https://modrinth.com/mod/lithium)                                       | Performance | [!⚠️!](https://modrinth.com/mod/radium) |         ✅         |  💬   |
-| [Noisium](https://modrinth.com/mod/noisium)                                       | Performance |                    ✅                    |         ✅         |  💬   |
-| [Clumps](https://modrinth.com/mod/clumps)                                         | Performance |                    ✅                    |         ✅         |  💬   |
-| [Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer) | Performance |                    ✅                    |         ✅         |  💬   |
-| [NetherPortalFix](https://modrinth.com/mod/netherportalfix)                       |   Bugfix    |                    ✅                    |         ✅         |  💬   |
-| [TabTPS](https://modrinth.com/mod/tabtps)                                         |   Utility   |                    ❌                    |         ✅         |  💬   |
+| Mod                                                                               |    Type     | Neo (1.21.1) | ADDED |
+| :-------------------------------------------------------------------------------- | :---------: | :----------: | :---: |
+| [FerriteCore](https://modrinth.com/mod/ferrite-core)                              | Performance |      ✅       |  💬   |
+| [ModernFix](https://modrinth.com/mod/modernfix)                                   | Performance |      ✅       |  💬   |
+| [Lithium](https://modrinth.com/mod/lithium)                                       | Performance |      ✅       |  💬   |
+| [Noisium](https://modrinth.com/mod/noisium)                                       | Performance |      ✅       |  💬   |
+| [Clumps](https://modrinth.com/mod/clumps)                                         | Performance |      ✅       |  💬   |
+| [Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer) | Performance |      ✅       |  💬   |
+| [NetherPortalFix](https://modrinth.com/mod/netherportalfix)                       |   Bugfix    |      ✅       |  💬   |
 
 ## Server-core[^4]
 
-| Mod                                                           |  Type  | Forge (1.20.1) | NeoForge (1.21.1) | ADDED |
-| :------------------------------------------------------------ | :----: | :------------: | :---------------: | :---: |
-| [Chunky](https://modrinth.com/mod/chunky)                     | Utiliy |       ✅        |         ✅         |  💬   |
-| [Create Track Map](https://modrinth.com/mod/create-track-map) |  Map   |       ✅        |         ❌         |  💬   |
-| [Dynmap](https://modrinth.com/plugin/dynmap)                  |  Map   |       ✅        |         ❌         |  💬   |
-| [dynmap-trains](https://github.com/Zhincore/dynmap-trains)    |  Map   |       ✅        |         ❌         |  💬   |
+| Mod                                                           |  Type  | Neo (1.21.1) | ADDED |
+| :------------------------------------------------------------ | :----: | :----------: | :---: |
+| [Chunky](https://modrinth.com/mod/chunky)                     | Utiliy |      ✅       |  💬   |
+| [Create Track Map](https://modrinth.com/mod/create-track-map) |  Map   |      ❌       |  💬   |
+| [Dynmap](https://modrinth.com/plugin/dynmap)                  |  Map   |      ❌       |  💬   |
+| [dynmap-trains](https://github.com/Zhincore/dynmap-trains)    |  Map   |      ❌       |  💬   |
 
 [^1]: Libraries and dependancies are not included in the list. Going to create default configs later using [Default Options](https://modrinth.com/mod/default-options) Mod.
 [^2]: Most of the mods can be removed.
