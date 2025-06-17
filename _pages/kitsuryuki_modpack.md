@@ -4,13 +4,12 @@ layout: default
 permalink: /
 ---
 ## Core [^1]
-
 | Mod                                             |  Type   | Neo (1.21.1) | ADDED |
 | :---------------------------------------------- | :-----: | :----------: | :---: |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | Utility |      ✅       |  💬   |
 | [Create](https://modrinth.com/mod/create)       | Create  |      ✅       |  💬   |
-## Client-side (Mods)[^2]
 
+## Client-side (Mods)[^2]
 | Mod                                                                        |     Type     | Neo (1.21.1) |
 | :------------------------------------------------------------------------- | :----------: | :----------: |
 | [Entity Culling](https://modrinth.com/mod/entityculling)                   | Optimization |      ✅       |
@@ -25,15 +24,15 @@ permalink: /
 | [Resourcify](https://modrinth.com/mod/resourcify)                          |   Utility    |      ✅       |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra)                      | Optimization |      ✅       |
 | [🟠 FastWorkbench](https://curseforge.com/minecraft/mc-mods/fastworkbench) | Optimization |      ✅       |
-## Client-side (Resource/Shader Packs)[^2]
 
+## Client-side (Resource/Shader Packs)[^2]
 | Name                                                                   |     Type      | Functional |
 | :--------------------------------------------------------------------- | :-----------: | :--------: |
 | [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) | Resource Pack |     ✅      |
 | [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-moves)      | Resource Pack |     ✅      |
 |                                                                        |  Shader Pack  |            |
-## Server-side[^3]
 
+## Server-side[^3]
 | Mod                                                                               |    Type     | Neo (1.21.1) |
 | :-------------------------------------------------------------------------------- | :---------: | :----------: |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)                              | Performance |      ✅       |
@@ -43,8 +42,8 @@ permalink: /
 | [Clumps](https://modrinth.com/mod/clumps)                                         | Performance |      ✅       |
 | [Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer) | Performance |      ✅       |
 | [NetherPortalFix](https://modrinth.com/mod/netherportalfix)                       |   Bugfix    |      ✅       |
-## Server-core[^4]
 
+## Server-core[^4]
 | Mod                                       |  Type  | Neo (1.21.1) |
 | :---------------------------------------- | :----: | :----------: |
 | [Chunky](https://modrinth.com/mod/chunky) | Utiliy |      ✅       |

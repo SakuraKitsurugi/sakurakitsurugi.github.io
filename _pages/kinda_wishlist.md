@@ -4,8 +4,8 @@ layout: default
 permalink: /mod_wishlist
 ---
 ✅ ❌ ⚠️ 🟢 🟠 - Available/Unavailable/Caviat/Modrinth/Curseforge
-## Create-specific
 
+## Create-specific
 | Mod                  | Type | Neo (1.21.1) | Store | Latest |
 | -------------------- | :--: | :----------: | :---: | :----: |
 | Air                  |      |              |       |        |
@@ -22,8 +22,8 @@ permalink: /mod_wishlist
 | New Age              |      |              |       |        |
 | Steam 'n' Rails      |      |              |       |        |
 | Power Loader         |      |              |       |        |
-## Core
 
+## Core
 | Mod                     | Type | Neo (1.21.1) | Store | Latest |
 | ----------------------- | :--: | :----------: | :---: | :----: |
 | AE2 *or*                |      |      ✅       | 🟢🟠  |        |
@@ -33,18 +33,18 @@ permalink: /mod_wishlist
 | Vein Mining             |      |  ⚠️ 1.21 ⚠️  |       |        |
 | Gravestones             |      |      ✅       |       |        |
 | Waystones               |      |      ✅       |       |        |
+
 ## Client-side
-
 | Mod | Type | Neo (1.21.1) | Store | Latest |
 | --- | :--: | :----------: | :---: | :----: |
 |     |      |              |       |        |
+
 ## Server-side
-
 | Mod | Type | Neo (1.21.1) | Store | Latest |
 | --- | :--: | :----------: | :---: | :----: |
 |     |      |              |       |        |
-## Server-only
 
+## Server-only
 | Mod                                                           | Type | Neo (1.21.1) | Store | Latest |
 | ------------------------------------------------------------- | :--: | :----------: | :---: | :----: |
 | [Create Track Map](https://modrinth.com/mod/create-track-map) | Map  |      ❌       |  🟢   |        |
