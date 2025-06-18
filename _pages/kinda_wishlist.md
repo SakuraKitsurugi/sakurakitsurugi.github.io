@@ -6,12 +6,12 @@ permalink: /mod_wishlist
 ✅ ❌ ⚠️ 🟠 - Available/Unavailable/Caveat/Curseforge
 
 ## Create-specific Mods
-[⚠️ 0.6 Compatibility ⚠️](https://docs.google.com/spreadsheets/d/1sEK9lDrp5nT00MzR6mSGFQzcq04kdcioGFuKwIqiavg/edit?gid=1602557590#gid=1602557590)
+[⚠️ 6.0 Compatibility ⚠️](https://docs.google.com/spreadsheets/d/1sEK9lDrp5nT00MzR6mSGFQzcq04kdcioGFuKwIqiavg/edit?gid=1602557590#gid=1602557590)
 
 | Mod                  |   Neo (1.21.1)   | Notes                 |
 | -------------------- | :--------------: | --------------------- |
 | Cobblestone          |    ❌ 1.20.1 ❌    |                       |
-| Crafts & Addtitions  |        ✅         | Incompatible with 0.6 |
+| Crafts & Addtitions  |        ✅         | Incompatible with 6.0 |
 | Deco                 | ❌ Forge 1.20.1 ❌ |                       |
 | Railways Navigator   |        ✅         |                       |
 | Bells & Whistles     |        ✅         |                       |
