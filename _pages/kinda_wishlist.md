@@ -32,7 +32,6 @@ permalink: /mod_wishlist
 | Encased                                    |        ✅         |                                                                 |
 | Sophisticated Backpacks Create Integration |        ✅         |                                                                 |
 
-
 ## Core Mods
 
 | Mod                     | Neo (1.21.1) | Notes                                                                                 |
@@ -50,7 +49,13 @@ permalink: /mod_wishlist
 
 | Mod | Neo (1.21.1) | Notes |
 | --- | :----------: | :---- |
-| -   |      -       | -     |
+|     |              |       |
+
+## Resource Packs
+
+| Name      | Notes |
+| --------- | ----- |
+| Newer Age |       |
 
 ## !OTHER!
 
