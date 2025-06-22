@@ -57,44 +57,73 @@ permalink: /mod_wishlist
 | --------- | ----- |
 | Newer Age |       |
 
-## !OTHER!
+## Others that I have not checked out yet
 
-| Mod        | Neo (1.21.1) | LINR | Notes            |
-| ---------- | :----------: | :--: | ---------------- |
-| Continuity |      ⚠️      |  -   | Requires Sinytra |
-https://modrinth.com/mod/explosive-enhancement-forge
-https://modrinth.com/mod/ambientsounds
-https://modrinth.com/mod/ambient-environment
-https://modrinth.com/mod/particular-reforged
-https://modrinth.com/mod/im-fast (similar to the curseforge one?)
-https://www.curseforge.com/minecraft/mc-mods/hold-my-items-reforged
-https://modrinth.com/mod/patchouli
-https://modrinth.com/mod/sodium-dynamic-lights
-https://modrinth.com/resourcepack/armory-conglomery
-https://modrinth.com/mod/subtle-effects
-macaw's stuff maybe?
-https://modrinth.com/mod/mmmmmmmmmmmm
-https://modrinth.com/mod/lootr
-farm delight
-https://modrinth.com/mod/slice-and-dice
-https://modrinth.com/mod/create-dynamic-lights
-https://modrinth.com/mod/lightmans-currency
-radar + cannons? (create)
-functional storage
-alloys?
+#### 1. Create Addons
 
-lmao:
-https://modrinth.com/mod/touhou-little-maid
-https://modrinth.com/mod/maidsoul-kitchen
+| Mod                                                              |   Neo (1.21.1)   | Notes                                           |
+| ---------------------------------------------------------------- | :--------------: | ----------------------------------------------- |
+| [Slice & Dice](https://modrinth.com/mod/slice-and-dice)          | ❌ Forge 1.20.1 ❌ | If we will use Farmer's Delight.                |
+| [Dynamic Lights](https://modrinth.com/mod/create-dynamic-lights) | ❌ Forge 1.20.1 ❌ |                                                 |
+| [Big Cannons](https://modrinth.com/mod/create-big-cannons)       |    ❌ 1.20.1 ❌    | Only with Create: Radars and with griefing off. |
+| [Radars](https://modrinth.com/mod/create-radars)                 | ❌ Forge 1.20.1 ❌ |                                                 |
+| [Alloyed](https://modrinth.com/mod/create-alloyed)               |        ✅         |                                                 |
 
-modpack:
-https://modrinth.com/mod/kubejs
-https://modrinth.com/mod/item-obliterator
+#### 2. "Core"
 
-twilight forest my beloved:
-https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
+| Mod                                                                |   Neo (1.21.1)   | Notes                                         |
+| ------------------------------------------------------------------ | :--------------: | --------------------------------------------- |
+| [Patchouli](https://modrinth.com/mod/patchouli)                    |        ✅         | Might be necessary for some mods.             |
+| [MmmMmmMmmMmm](https://modrinth.com/mod/mmmmmmmmmmmm)              |        ✅         | Target Dummy mod.                             |
+| [Lootr](https://modrinth.com/mod/lootr)                            |        ✅         |                                               |
+| [Farmer's Delight](https://modrinth.com/mod/farmers-delight)       |        ✅         |                                               |
+| [Lightman's Currency](https://modrinth.com/mod/lightmans-currency) |        ✅         | Could be fun, but might not be necessary.     |
+| [Functional Storage](https://modrinth.com/mod/functional-storage)  |        ✅         | Drawers!                                      |
+| [Quark](https://modrinth.com/mod/quark)                            | ❌ Forge 1.20.1 ❌ | I still do not understand what this mod does. |
 
-terrain / world gen:
-https://modrinth.com/datapack/terralith
-https://modrinth.com/datapack/tectonic
-YUNG?
+#### 3. Purely blocks/funiture:
+
+| Mod              | Neo (1.21.1) | Notes |
+| ---------------- | :----------: | ----- |
+| Macaw's Mods (?) |      -       |       |
+
+#### 4. World Generation
+
+| Mod                                                  | Neo (1.21.1) | Notes |
+| ---------------------------------------------------- | :----------: | ----- |
+| [Terralith](https://modrinth.com/datapack/terralith) |      ✅       |       |
+| [Tectonic](https://modrinth.com/datapack/tectonic)   |      ✅       |       |
+| YUNG Mods (?)                                        |      -       |       |
+
+#### 5. Visual/SFX Mods:
+
+| Mod                                                                                     | Neo (1.21.1) | Notes                                        |
+| --------------------------------------------------------------------------------------- | :----------: | -------------------------------------------- |
+| [Explosive Enhancement](https://modrinth.com/mod/explosive-enhancement-forge)           |      ✅       |                                              |
+| [AmbientSounds](https://modrinth.com/mod/ambientsounds)                                 |      ✅       |                                              |
+| [Ambient Environment](https://modrinth.com/mod/ambient-environment)                     |      ✅       |                                              |
+| [Particular](https://modrinth.com/mod/particular-reforged)                              |      ✅       |                                              |
+| [🟠 Hold My Items](https://www.curseforge.com/minecraft/mc-mods/hold-my-items-reforged) |      ✅       |                                              |
+| [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights)                 |      ✅       | Does not require Iris for dynamic lights.    |
+| [Armory Conglomery](https://modrinth.com/resourcepack/armory-conglomery)                |      -       | TEXTURE PACK                                 |
+| [Subtle Effects](https://modrinth.com/mod/subtle-effects)                               |      ✅       | Maybe is not necessary if we use Particular? |
+
+#### 6. A lot of content:
+
+| Mod                                                                                    | Neo (1.21.1) | Notes                       |
+| -------------------------------------------------------------------------------------- | :----------: | --------------------------- |
+| [🟠 Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) |      ✅       | Twilight Forest my beloved. |
+
+#### 7. Funny, but do not think they fit:
+
+| Mod                                                               | Neo (1.21.1) | Notes                                                                                                                                                         |
+| ----------------------------------------------------------------- | :----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) |      ✅       | Maybe if I do a lot of modification to it to be more simplistic and have less overall bloat. Sadly the AI voice thing cannot be removed, but can be disabled. |
+| [Maidsoul Kitchen](https://modrinth.com/mod/maidsoul-kitchen)     |      ✅       |                                                                                                                                                               |
+
+#### 8. For Modpack creation:
+
+| Mod                                                           | Neo (1.21.1) | Notes |
+| ------------------------------------------------------------- | :----------: | ----- |
+| [KubeJS](https://modrinth.com/mod/kubejs)                     |      ✅       |       |
+| [Item Obliterator](https://modrinth.com/mod/item-obliterator) |  ❌ 1.20.1 ❌  |       |
