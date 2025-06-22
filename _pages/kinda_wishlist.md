@@ -59,7 +59,7 @@ permalink: /mod_wishlist
 
 ## Others that I have not checked out yet
 
-#### 1. Create Addons
+### 1. Create Addons
 
 | Mod                                                              |   Neo (1.21.1)   | Notes                                           |
 | ---------------------------------------------------------------- | :--------------: | ----------------------------------------------- |
@@ -69,7 +69,7 @@ permalink: /mod_wishlist
 | [Radars](https://modrinth.com/mod/create-radars)                 | ❌ Forge 1.20.1 ❌ |                                                 |
 | [Alloyed](https://modrinth.com/mod/create-alloyed)               |        ✅         |                                                 |
 
-#### 2. "Core"
+### 2. "Core"
 
 | Mod                                                                |   Neo (1.21.1)   | Notes                                         |
 | ------------------------------------------------------------------ | :--------------: | --------------------------------------------- |
@@ -81,13 +81,13 @@ permalink: /mod_wishlist
 | [Functional Storage](https://modrinth.com/mod/functional-storage)  |        ✅         | Drawers!                                      |
 | [Quark](https://modrinth.com/mod/quark)                            | ❌ Forge 1.20.1 ❌ | I still do not understand what this mod does. |
 
-#### 3. Purely blocks/funiture:
+### 3. Purely blocks/funiture:
 
 | Mod              | Neo (1.21.1) | Notes |
 | ---------------- | :----------: | ----- |
 | Macaw's Mods (?) |      -       |       |
 
-#### 4. World Generation
+### 4. World Generation
 
 | Mod                                                  | Neo (1.21.1) | Notes |
 | ---------------------------------------------------- | :----------: | ----- |
@@ -95,7 +95,7 @@ permalink: /mod_wishlist
 | [Tectonic](https://modrinth.com/datapack/tectonic)   |      ✅       |       |
 | YUNG Mods (?)                                        |      -       |       |
 
-#### 5. Visual/SFX Mods:
+### 5. Visual/SFX Mods:
 
 | Mod                                                                                     | Neo (1.21.1) | Notes                                        |
 | --------------------------------------------------------------------------------------- | :----------: | -------------------------------------------- |
@@ -108,20 +108,20 @@ permalink: /mod_wishlist
 | [Armory Conglomery](https://modrinth.com/resourcepack/armory-conglomery)                |      -       | TEXTURE PACK                                 |
 | [Subtle Effects](https://modrinth.com/mod/subtle-effects)                               |      ✅       | Maybe is not necessary if we use Particular? |
 
-#### 6. A lot of content:
+### 6. A lot of content:
 
 | Mod                                                                                    | Neo (1.21.1) | Notes                       |
 | -------------------------------------------------------------------------------------- | :----------: | --------------------------- |
 | [🟠 Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) |      ✅       | Twilight Forest my beloved. |
 
-#### 7. Funny, but do not think they fit:
+### 7. Funny, but do not think they fit:
 
 | Mod                                                               | Neo (1.21.1) | Notes                                                                                                                                                         |
 | ----------------------------------------------------------------- | :----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) |      ✅       | Maybe if I do a lot of modification to it to be more simplistic and have less overall bloat. Sadly the AI voice thing cannot be removed, but can be disabled. |
 | [Maidsoul Kitchen](https://modrinth.com/mod/maidsoul-kitchen)     |      ✅       |                                                                                                                                                               |
 
-#### 8. For Modpack creation:
+### 8. For Modpack creation:
 
 | Mod                                                           | Neo (1.21.1) | Notes |
 | ------------------------------------------------------------- | :----------: | ----- |
