@@ -93,6 +93,7 @@ permalink: /mod_wishlist
 | [Armory Conglomery](https://modrinth.com/resourcepack/armory-conglomery)                                   |       |
 | [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)                                |       |
 | [Eclectic Trove (Legendary Tooltips)](https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips) |       |
+
 ## Modpack Tools
 
 | Mod                                                              | Neo (1.21.1) | Notes    |
@@ -146,6 +147,7 @@ permalink: /mod_wishlist
 | [Maidsoul Kitchen](https://modrinth.com/mod/maidsoul-kitchen)        |      ✅       |                                                                                                                                                               |
 | [MapFrontiers](https://modrinth.com/mod/mapfrontiers)                |      ✅       | Requires JourneyMap instead of Xaero.                                                                                                                         |
 | [🟠 Blahaj](https://www.curseforge.com/minecraft/mc-mods/neo-blahaj) |      ✅       |                                                                                                                                                               |
+
 https://modrinth.com/mod/when-dungeons-arise
 https://www.curseforge.com/minecraft/mc-mods/repurposed-structures
 https://www.curseforge.com/minecraft/mc-mods/adventure-dungeons-mod-edition
