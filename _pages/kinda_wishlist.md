@@ -27,7 +27,6 @@ permalink: /mod_wishlist
 | [Stuff 'N Additions](https://modrinth.com/mod/create-stuff-additions)                                             |      ✅       |                                                                 |
 | [Design n' Decor](https://modrinth.com/mod/create-design-n-decor)                                                 |      ✅       |                                                                 |
 | [🟠 Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)                              |      ✅       |                                                                 |
-| [🟠 Craftable Casing](https://www.curseforge.com/minecraft/mc-mods/craftable-create-casings)                      |   ❌1.20.1❌   |                                                                 |
 | [Escalated](https://modrinth.com/mod/escalated)                                                                   |      ✅       |                                                                 |
 | [Waystone Recipes](https://modrinth.com/mod/create-waystones-recipes)                                             |      ✅       | If Waystones will be added                                      |
 | [Encased](https://modrinth.com/mod/create-encased)                                                                |      ✅       |                                                                 |
@@ -44,32 +43,32 @@ permalink: /mod_wishlist
 
 ## Core Mods
 
-| Mod                                                                                                | Neo (1.21.1) | Notes                                                                                 |
-| -------------------------------------------------------------------------------------------------- | :----------: | ------------------------------------------------------------------------------------- |
-| [Refined Storage](https://modrinth.com/mod/refined-storage)                                        |      ✅       | Simpler, but worse performance than AE2, will see how it goes with first server host. |
-| [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)                        |      ✅       |                                                                                       |
-| [Vein Mining](https://modrinth.com/mod/vein-mining)                                                |      ⚠️      | NeoForge 1.21 version works on 1.21.1                                                 |
-| [GraveStone Mod](https://modrinth.com/mod/gravestone-mod)                                          |      ✅       |                                                                                       |
-| [Waystones](https://modrinth.com/mod/waystones)                                                    |      ✅       |                                                                                       |
-| [Better Combat](https://modrinth.com/mod/better-combat)                                            |      ✅       |                                                                                       |
-| [Explorer's Compass](https://modrinth.com/mod/explorers-compass)                                   |      ✅       |                                                                                       |
-| [Nature's Compass](https://modrinth.com/mod/natures-compass)                                       |      ✅       |                                                                                       |
-| [Patchouli](https://modrinth.com/mod/patchouli)                                                    |      ✅       | Might be necessary for some mods.                                                     |
-| [MmmMmmMmmMmm](https://modrinth.com/mod/mmmmmmmmmmmm)                                              |      ✅       | Target Dummy mod.                                                                     |
-| [Lootr](https://modrinth.com/mod/lootr)                                                            |      ✅       |                                                                                       |
-| [Farmer's Delight](https://modrinth.com/mod/farmers-delight)                                       |      ✅       |                                                                                       |
-| [Lightman's Currency](https://modrinth.com/mod/lightmans-currency)                                 |      ✅       | Could be fun, but might not be necessary.                                             |
-| [Functional Storage](https://modrinth.com/mod/functional-storage)                                  |      ✅       | Drawers!                                                                              |
-| [Supplementaries](https://modrinth.com/mod/supplementaries)                                        |      ✅       | Crash on using Safes?                                                                 |
-| [Amendments](https://modrinth.com/mod/amendments)                                                  |      ✅       |                                                                                       |
-| [Ad Astra](https://modrinth.com/mod/ad-astra)                                                      |   ❌1.20.4❌   | Depends on Botarium to be updated                                                     |
-| [🟠 Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) |      ✅       |                                                                                       |
-| [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)                                |      ✅       |                                                                                       |
-| [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)                                      |      ✅       |                                                                                       |
-| [HT's TreeChop](https://modrinth.com/mod/treechop)                                                 |      ✅       |                                                                                       |
-| [Artifacts](https://modrinth.com/mod/artifacts)                                                    |      ✅       |                                                                                       |
-| [Relics](https://modrinth.com/mod/relics-mod)                                                      |      ✅       |                                                                                       |
-| [Relics: Artifacts Compat](https://modrinth.com/mod/rar-compat)                                    |      ✅       |                                                                                       |
+| Mod                                                                                                | Neo (1.21.1) | Notes                                                                                                      |
+| -------------------------------------------------------------------------------------------------- | :----------: | ---------------------------------------------------------------------------------------------------------- |
+| [Refined Storage](https://modrinth.com/mod/refined-storage)                                        |      ✅       | Simpler, but worse performance than AE2, will see how it goes with first server host.                      |
+| [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)                        |      ✅       |                                                                                                            |
+| [Vein Mining](https://modrinth.com/mod/vein-mining)                                                |      ✅       | Use NeoForge 1.21 version.                                                                                 |
+| [GraveStone Mod](https://modrinth.com/mod/gravestone-mod)                                          |      ✅       |                                                                                                            |
+| [Waystones](https://modrinth.com/mod/waystones)                                                    |      ✅       |                                                                                                            |
+| [Better Combat](https://modrinth.com/mod/better-combat)                                            |      ✅       |                                                                                                            |
+| [Explorer's Compass](https://modrinth.com/mod/explorers-compass)                                   |      ✅       |                                                                                                            |
+| [Nature's Compass](https://modrinth.com/mod/natures-compass)                                       |      ✅       |                                                                                                            |
+| [Patchouli](https://modrinth.com/mod/patchouli)                                                    |      ✅       | Might be necessary for some mods.                                                                          |
+| [MmmMmmMmmMmm](https://modrinth.com/mod/mmmmmmmmmmmm)                                              |      ✅       | Target Dummy mod.                                                                                          |
+| [Lootr](https://modrinth.com/mod/lootr)                                                            |      ✅       |                                                                                                            |
+| [Farmer's Delight](https://modrinth.com/mod/farmers-delight)                                       |      ✅       |                                                                                                            |
+| [Lightman's Currency](https://modrinth.com/mod/lightmans-currency)                                 |      ✅       | Could be fun, but might not be necessary.                                                                  |
+| [Functional Storage](https://modrinth.com/mod/functional-storage)                                  |      ✅       | Drawers!                                                                                                   |
+| [Supplementaries](https://modrinth.com/mod/supplementaries)                                        |      ✅       | Crash on using Safes?                                                                                      |
+| [Amendments](https://modrinth.com/mod/amendments)                                                  |      ✅       |                                                                                                            |
+| [Ad Astra](https://modrinth.com/mod/ad-astra)                                                      |   ❌1.20.4❌   | Depends on Botarium to be updated. Botarium is currently being updated to 1.21.1, but no news on Ad Astra. |
+| [🟠 Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) |      ✅       |                                                                                                            |
+| [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)                                |      ✅       |                                                                                                            |
+| [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)                                      |      ✅       |                                                                                                            |
+| [HT's TreeChop](https://modrinth.com/mod/treechop)                                                 |      ✅       |                                                                                                            |
+| [Artifacts](https://modrinth.com/mod/artifacts)                                                    |      ✅       |                                                                                                            |
+| [Relics](https://modrinth.com/mod/relics-mod)                                                      |      ✅       |                                                                                                            |
+| [Relics: Artifacts Compat](https://modrinth.com/mod/rar-compat)                                    |      ✅       |                                                                                                            |
 
 ## Client-Side Mods
 
@@ -85,7 +84,6 @@ permalink: /mod_wishlist
 | [Better Ping Display](https://modrinth.com/mod/better-ping-display)                     |      ✅       | I might choose to install some kind of TAB mod for server which would make this unnecessary. |
 | [Blur+](https://modrinth.com/mod/blur-plus)                                             |      ⚠️      | Seems to be broken as of 2025-06-22                                                          |
 | [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)                     |      ✅       | Fine, but maybe over-the-top for my modpack?                                                 |
-| [Neko's Enchanted Books](https://modrinth.com/mod/nekos-enchanted-books)                |   ❌1.20.1❌   |                                                                                              |
 
 ## Resource Packs
 
