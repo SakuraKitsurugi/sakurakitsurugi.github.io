@@ -10,7 +10,7 @@ permalink: /mod_wishlist
 
 | Mod                                                                                                               | Neo (1.21.1) | Notes                                                           |
 | ----------------------------------------------------------------------------------------------------------------- | :----------: | --------------------------------------------------------------- |
-| [Cobblestone](https://modrinth.com/mod/create-cobblestone)                                                        |   ❌1.20.1❌   |                                                                 |
+| [Cobblestone](https://modrinth.com/mod/create-cobblestone)                                                        |      ✅       |                                                                 |
 | [Crafts & Addtitions](https://modrinth.com/mod/createaddition)                                                    |      ✅       |                                                                 |
 | [Deco](https://modrinth.com/mod/create-deco)                                                                      |   ❌1.20.1❌   |                                                                 |
 | [Railways Navigator](https://modrinth.com/mod/create-railways-navigator)                                          |      ✅       |                                                                 |
