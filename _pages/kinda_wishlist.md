@@ -147,12 +147,13 @@ permalink: /mod_wishlist
 | [Maidsoul Kitchen](https://modrinth.com/mod/maidsoul-kitchen)        |      ✅       |                                                                                                                                                               |
 | [MapFrontiers](https://modrinth.com/mod/mapfrontiers)                |      ✅       | Requires JourneyMap instead of Xaero.                                                                                                                         |
 | [🟠 Blahaj](https://www.curseforge.com/minecraft/mc-mods/neo-blahaj) |      ✅       |                                                                                                                                                               |
-
-https://modrinth.com/mod/when-dungeons-arise
-https://www.curseforge.com/minecraft/mc-mods/repurposed-structures
-https://www.curseforge.com/minecraft/mc-mods/adventure-dungeons-mod-edition
-https://www.curseforge.com/minecraft/mc-mods/lendercataclysm
-https://www.curseforge.com/minecraft/mc-mods/farmers-structures
-https://www.curseforge.com/minecraft/mc-mods/formations-nether
-https://www.curseforge.com/members/hoponopono/projects
-https://www.curseforge.com/members/finndog_123/projects
+|                                                                      |              |                                                                                                                                                               |
+[Decorative Blocks - Minecraft Mod](https://modrinth.com/mod/decorative-blocks/)
+[When Dungeons Arise - Minecraft Mod](https://modrinth.com/mod/when-dungeons-arise)
+[Repurposed Structures (Neoforge/Forge) - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
+[Adventure Dungeons - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/adventure-dungeons-mod-edition)
+[L\_Ender 's Cataclysm - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)
+[Farmers Structures - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-structures)
+[Formations Nether - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/formations-nether)
+[hoponopono's Profile - Member List - CurseForge](https://www.curseforge.com/members/hoponopono/projects)
+[finndog\_123's Profile - Member List - CurseForge](https://www.curseforge.com/members/finndog_123/projects)
