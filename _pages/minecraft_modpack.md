@@ -1,5 +1,5 @@
 ---
-title: Modpack
+title: MC Modpack
 layout: default
 permalink: /
 ---

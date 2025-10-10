@@ -3,8 +3,9 @@ theme: "minima"
 include: ["_pages"]
 
 header_pages:
-  - _pages/kitsuryuki_modpack.md
-  - _pages/kinda_wishlist.md
+  - _pages/minecraft_modpack.md
+  - _pages/minecraft_modpack_wishlist.md
+  - pages/vintage_story_modpack.md
 
 minima:
   skin: dark

@@ -1,7 +1,7 @@
 ---
-title: Mod Wishlist
+title: MC Wishlist
 layout: default
-permalink: /mod_wishlist
+permalink: /minecraft-modpack-wishlist
 ---
 ✅ ❌ ⚠️ 🟠 - Available/Unavailable/Caveat/Curseforge
 
