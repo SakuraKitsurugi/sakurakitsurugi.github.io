@@ -1,7 +1,7 @@
 ---
 title: VS Modpack
 layout: default
-permalink: /vintage-story-modpack
+permalink: /vintage-story
 ---
 
 |     |     |

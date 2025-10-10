@@ -3,9 +3,9 @@ theme: "minima"
 include: ["_pages"]
 
 header_pages:
-  - _pages/minecraft_modpack.md
-  - _pages/minecraft_modpack_wishlist.md
-  - pages/vintage_story_modpack.md
+  - _pages/mc_modpack.md
+  - _pages/mc_modpack_wishlist.md
+  - _pages/vs_modpack.md
 
 minima:
   skin: dark
