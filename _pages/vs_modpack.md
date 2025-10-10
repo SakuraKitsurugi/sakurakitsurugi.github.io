@@ -11,9 +11,9 @@ permalink: /vintage-story
 
 ## Worldgen
 
-|                                                                      |                                             |
-| -------------------------------------------------------------------- | ------------------------------------------- |
-| [{{ site.data.mods["betterruins"].name }}](https://kitsturyuki.net/) | {{ site.data.mods["betterruins"].version }} |
+|                                                                 |                                        |
+| --------------------------------------------------------------- | -------------------------------------- |
+| [{{ site.data["betterruins"].name }}](https://kitsturyuki.net/) | {{ site.data["betterruins"].version }} |
 
 ## Libraries
 
