@@ -5,19 +5,27 @@ permalink: /vintage-story
 ---
 ## Core
 
-| Name | Install Version | Newest Version                     |
-| ---- | --------------- | ---------------------------------- |
-|      | ???             | {{ site.data.mods["21"].version }} |
+| Name | Current Version | Newest Version |
+| ---- | --------------- | -------------- |
+|      | ???             |                |
 
 ## Worldgen
 
-| Name                                                                            | Newest Version                         |
-| ------------------------------------------------------------------------------- | -------------------------------------- |
-| [{{ site.data["betterruins"].name }}]( {{ side.data["betterruins"].mod_url }} ) | {{ site.data["betterruins"].version }} |
-|                                                                                 |                                        |
+| Name                                                                            | Current Version | Newest Version                         |
+| ------------------------------------------------------------------------------- | --------------- | -------------------------------------- |
+| [{{ site.data["betterruins"].name }}]( {{ side.data["betterruins"].mod_url }} ) | ???             | {{ site.data["betterruins"].version }} |
+| [{{ site.data["terraprety"].name }}]( {{ side.data["terraprety"].mod_url }} )   | ???             | {{ site.data["terraprety"].version }}  |
+| [{{ site.data["rivers"].name }}]( {{ side.data["rivers"].mod_url }} )           | ???             | {{ site.data["rivers"].version }}      |
+## UI
+
+| Name                                                                                            | Current Version | Newest Version                                 |
+| ----------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------- |
+| [{{ site.data["marximusmedievalmap"].name }}]( {{ side.data["marximusmedievalmap"].mod_url }} ) | ???             | {{ site.data["marximusmedievalmap"].version }} |
 
 ## Libraries
 
-|     |     |
-| --- | --- |
-|     |     |
+| Name                                                                                | Current Version | Newest Version                           |
+| ----------------------------------------------------------------------------------- | --------------- | ---------------------------------------- |
+| [{{ site.data["configlib"].name }}]( {{ side.data["configlib"].mod_url }} )         | ???             | {{ site.data["configlib"].version }}     |
+| [{{ site.data["autoconfiglib"].name }}]( {{ side.data["autoconfiglib"].mod_url }} ) | ???             | {{ site.data["autoconfiglib"].version }} |
+| [{{ site.data["vsimgui"].name }}]( {{ side.data["vsimgui"].mod_url }} )             | ???             | {{ site.data["vsimgui"].version }}       |
