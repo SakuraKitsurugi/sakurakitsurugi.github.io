@@ -18,7 +18,7 @@ for mod_file in mods_folder.glob("*.json"):
         # Extract fields you care about
         mod_info = {
             "id": mod_id,
-            "assetid": data["mod"]["assetid"],
+            "assetid": str(data["mod"]["assetid"]),
             "name": data["mod"]["name"],
             "version": data["mod"]["releases"][0]["modversion"],
         }
