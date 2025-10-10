@@ -13,7 +13,7 @@ permalink: /vintage-story
 
 | Name                                                                            | Newest Version                         |
 | ------------------------------------------------------------------------------- | -------------------------------------- |
-| [{{ site.data["betterruins"].name }}]( {{ side.data["betterruins"].mod_url }} ) | {{ site.data["betterruins"].version }} |
+| [{{ site.data["betterruins"].name }}]( {{ site.data["betterruins"].mod_url }} ) | {{ site.data["betterruins"].version }} |
 |                                                                                 |                                        |
 
 ## Libraries
