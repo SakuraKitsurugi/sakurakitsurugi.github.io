@@ -7,7 +7,7 @@ mods_folder = Path(__file__).parent
 
 # Loop over all JSON files in the folder
 for mod_file in mods_folder.glob("*.json"):
-    mod_id = mod_file.stem  # filename without extension, used as mod ID
+    mod_id = mod_file.stem.split("_")[0]  # filename without extension, used as mod ID
     api_url = f"https://mods.vintagestory.at/api/mod/{mod_id}"
 
     try:
@@ -17,7 +17,7 @@ for mod_file in mods_folder.glob("*.json"):
 
         # Extract fields you care about
         mod_info = {
-            "id": int(mod_id),
+            "id": mod_id,
             "name": data["mod"]["name"],
             "version": data["mod"]["releases"][0]["modversion"],
         }
