@@ -16,11 +16,13 @@ permalink: /vintage-story
 | [{{ site.data["betterruins"].name }}]( {{ side.data["betterruins"].mod_url }} ) | ???             | {{ site.data["betterruins"].version }} |
 | [{{ site.data["terraprety"].name }}]( {{ side.data["terraprety"].mod_url }} )   | ???             | {{ site.data["terraprety"].version }}  |
 | [{{ site.data["rivers"].name }}]( {{ side.data["rivers"].mod_url }} )           | ???             | {{ site.data["rivers"].version }}      |
+
 ## UI
 
 | Name                                                                                            | Current Version | Newest Version                                 |
 | ----------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------- |
 | [{{ site.data["marximusmedievalmap"].name }}]( {{ side.data["marximusmedievalmap"].mod_url }} ) | ???             | {{ site.data["marximusmedievalmap"].version }} |
+
 ## Libraries
 
 | Name                                                                                | Current Version | Newest Version                           |
