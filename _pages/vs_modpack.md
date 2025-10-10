@@ -21,7 +21,6 @@ permalink: /vintage-story
 | Name                                                                                            | Current Version | Newest Version                                 |
 | ----------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------- |
 | [{{ site.data["marximusmedievalmap"].name }}]( {{ side.data["marximusmedievalmap"].mod_url }} ) | ???             | {{ site.data["marximusmedievalmap"].version }} |
-
 ## Libraries
 
 | Name                                                                                | Current Version | Newest Version                           |
