@@ -4,7 +4,7 @@ layout: default
 permalink: /vintage-story
 ---
 
-|      |                                      |
-| ---- | ------------------------------------ |
-| 1234 | {{ site.data.fetched_mods["1234"] }} |
+| Name                      | Install Version | Newest Version               |
+| ------------------------- | --------------- | ---------------------------- |
+| site.data.mods["21"].name | ???             | site.data.mods["21"].version |
 
