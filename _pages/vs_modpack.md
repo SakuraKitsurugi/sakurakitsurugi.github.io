@@ -11,10 +11,10 @@ permalink: /vintage-story
 
 ## Worldgen
 
-| Name                                                                                                                | Newest Version                         |
-| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| [{{ site.data["betterruins"].name }}](https://mods.vintagestory.at/show/mod/{{ side.data["betterruins"].assetid }}) | {{ site.data["betterruins"].version }} |
-|                                                                                                                     |                                        |
+| Name                                                                            | Newest Version                         |
+| ------------------------------------------------------------------------------- | -------------------------------------- |
+| [{{ site.data["betterruins"].name }}]( {{ side.data["betterruins"].mod_url }} ) | {{ site.data["betterruins"].version }} |
+|                                                                                 |                                        |
 
 ## Libraries
 
