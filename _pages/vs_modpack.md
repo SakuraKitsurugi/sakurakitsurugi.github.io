@@ -6,5 +6,5 @@ permalink: /vintage-story
 
 | Name                            | Install Version | Newest Version                     |
 | ------------------------------- | --------------- | ---------------------------------- |
-| {{ site.data.mods["21"].name }} | ???             | {{ site.data.mods["21"].version }} |
+| {{ site.data["21"].name }} | ???             | {{ site.data["21"].version }} |
 
