@@ -146,6 +146,7 @@ permalink: /minecraft-wishlist
 | [MapFrontiers](https://modrinth.com/mod/mapfrontiers)                |      ✅       | Requires JourneyMap instead of Xaero.                                                                                                                         |
 | [🟠 Blahaj](https://www.curseforge.com/minecraft/mc-mods/neo-blahaj) |      ✅       |                                                                                                                                                               |
 |                                                                      |              |                                                                                                                                                               |
+
 [Decorative Blocks - Minecraft Mod](https://modrinth.com/mod/decorative-blocks/)
 [When Dungeons Arise - Minecraft Mod](https://modrinth.com/mod/when-dungeons-arise)
 [Repurposed Structures (Neoforge/Forge) - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
