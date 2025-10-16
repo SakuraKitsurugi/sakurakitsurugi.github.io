@@ -28,3 +28,16 @@ permalink: /vintage-story
 | [{{ site.data["configlib"].name }}]( {{ side.data["configlib"].mod_url }} )         | ???             | {{ site.data["configlib"].version }}     |
 | [{{ site.data["autoconfiglib"].name }}]( {{ side.data["autoconfiglib"].mod_url }} ) | ???             | {{ site.data["autoconfiglib"].version }} |
 | [{{ site.data["vsimgui"].name }}]( {{ side.data["vsimgui"].mod_url }} )             | ???             | {{ site.data["vsimgui"].version }}       |
+|                                                                                     |                 |                                          |
+## WIP
+
+| Link                                                                                 | Type    | modid |
+| ------------------------------------------------------------------------------------ | ------- | ----- |
+| [Wool 🙵 More - Vintage Story Mod DB](https://mods.vintagestory.at/wool)             |         |       |
+
+## Suggestions
+
+| Name    | Link                                                                        |
+| ------- | --------------------------------------------------------------------------- |
+| XSkills | [XSkills - Vintage Story Mod DB](https://mods.vintagestory.at/show/mod/247) |
+|         |                                                                             |
