@@ -5,38 +5,44 @@ permalink: /minecraft-wishlist
 ---
 ✅ ❌ ⚠️ 🟠 - Available/Unavailable/Caveat/Curseforge
 
+## Update Waiting
+
+| Mod                                                                 | Type         | Neo (1.21.1) | Notes                                                                                        |
+| ------------------------------------------------------------------- | ------------ | :----------: | -------------------------------------------------------------------------------------------- |
+| [Deco](https://modrinth.com/mod/create-deco)                        | Create Addon |   ❌1.20.1❌   | Progress on [Github](https://github.com/talrey/CreateDeco/tree/1.21-neo)                     |
+| [⚠️ Estrogen](https://modrinth.com/mod/estrogen)                    | Create Addon |   ❌1.20.1❌   | Progress on [Github](https://github.com/MayaqqDev/Estrogen/)                                 |
+| [⚠️ Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | Create Addon |   ❌1.20.1❌   | Beta for 1.20.1 ([Github](https://github.com/Layers-of-Railways/Railway)), no news on 1.21.1 |
+| [Interiors](https://modrinth.com/mod/interiors)                     | Create Addon |   ❌1.20.1❌   | Still no news                                                                                |
+| [Ad Astra](https://modrinth.com/mod/ad-astra)                       | Core         |   ❌1.20.4❌   | Still no news                                                                                |
+
 ## Create Addons
 [⚠️ 6.0 Compatibility ⚠️](https://docs.google.com/spreadsheets/d/1sEK9lDrp5nT00MzR6mSGFQzcq04kdcioGFuKwIqiavg/edit?gid=1602557590#gid=1602557590)
 
-| Mod                                                                                                               | Neo (1.21.1) | Notes                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------- | :----------: | -------------------------------------------------------------------------------------------- |
-| [Cobblestone](https://modrinth.com/mod/create-cobblestone)                                                        |      ✅       |                                                                                              |
-| [Crafts & Addtitions](https://modrinth.com/mod/createaddition)                                                    |      ✅       |                                                                                              |
-| [Deco](https://modrinth.com/mod/create-deco)                                                                      |   ❌1.20.1❌   | Progress on [Github](https://github.com/talrey/CreateDeco/tree/1.21-neo)                     |
-| [Railways Navigator](https://modrinth.com/mod/create-railways-navigator)                                          |      ✅       |                                                                                              |
-| [Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)                                                     |      ✅       |                                                                                              |
-| [Copycats+](https://modrinth.com/mod/copycats)                                                                    |      ✅       |                                                                                              |
-| [Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)                                      |      ✅       |                                                                                              |
-| [⚠️ Estrogen](https://modrinth.com/mod/estrogen)                                                                     |   ❌1.20.1❌   | Progress on [Github](https://github.com/MayaqqDev/Estrogen/)                                 |
-| [Interiors](https://modrinth.com/mod/interiors)                                                                   |   ❌1.20.1❌   | Still no news                                                                                |
-| [New Age](https://modrinth.com/mod/create-new-age)                                                                |   ✅   |        |
-| [⚠️ Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)                                                  |   ❌1.20.1❌   | Beta for 1.20.1 ([Github](https://github.com/Layers-of-Railways/Railway)), no news on 1.21.1 |
-| [Power Loader](https://modrinth.com/mod/create-power-loader)                                                      |      ✅       |                                                                                              |
-| [Central Kitchen](https://modrinth.com/mod/create-central-kitchen)                                                |      ✅       | If we will use Farmer's Delight                                                              |
-| [Stuff 'N Additions](https://modrinth.com/mod/create-stuff-additions)                                             |      ✅       |                                                                                              |
-| [Design n' Decor](https://modrinth.com/mod/create-design-n-decor)                                                 |      ✅       |                                                                                              |
-| [🟠 Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)                              |      ✅       |                                                                                              |
-| [Escalated](https://modrinth.com/mod/escalated)                                                                   |      ✅       |                                                                                              |
-| [Waystone Recipes](https://modrinth.com/mod/create-waystones-recipes)                                             |      ✅       | If Waystones will be added                                                                   |
-| [Encased](https://modrinth.com/mod/create-encased)                                                                |      ✅       |                                                                                              |
-| [Sophisticated Backpacks Create Integration](https://modrinth.com/mod/sophisticated-backpacks-create-integration) |      ✅       |                                                                                              |
-| [Slice & Dice](https://modrinth.com/mod/slice-and-dice)                                                           |      ✅       | If we will use Farmer's Delight                                                              |
-| [🟠 New Furnitures](https://www.curseforge.com/minecraft/mc-mods/create-new-furnitures)                           |      ✅       | Looks nice, but placement is kinda half-baked.                                               |
-| [Ore Excavation](https://modrinth.com/mod/create-ore-excavation)                                                  |      ✅       | Balance should be discussed                                                                  |
-| [Compressed](https://modrinth.com/mod/create-compressed)                                                          |      ✅       | If this works with Functional Drawers then it is pretty good                                 |
-| [Better Villagers](https://modrinth.com/mod/create-better-villagers)                                              |      ✅       |                                                                                              |
-| [Hypertubes](https://modrinth.com/mod/hypertube)                                                                  |      ✅       | Looks quite fun                                                                              |
-| [Integrated Farming](https://modrinth.com/mod/create-integrated-farming)                                          |      ✅       | If we will use Farmer's Delight                                                              |
+| Mod                                                                                                               | Neo (1.21.1) | Notes                                                        |
+| ----------------------------------------------------------------------------------------------------------------- | :----------: | ------------------------------------------------------------ |
+| [Cobblestone](https://modrinth.com/mod/create-cobblestone)                                                        |      ✅       |                                                              |
+| [Crafts & Addtitions](https://modrinth.com/mod/createaddition)                                                    |      ✅       |                                                              |
+| [Railways Navigator](https://modrinth.com/mod/create-railways-navigator)                                          |      ✅       |                                                              |
+| [Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)                                                     |      ✅       |                                                              |
+| [Copycats+](https://modrinth.com/mod/copycats)                                                                    |      ✅       |                                                              |
+| [Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)                                      |      ✅       |                                                              |
+| [New Age](https://modrinth.com/mod/create-new-age)                                                                |      ✅       |                                                              |
+| [Power Loader](https://modrinth.com/mod/create-power-loader)                                                      |      ✅       |                                                              |
+| [Central Kitchen](https://modrinth.com/mod/create-central-kitchen)                                                |      ✅       | If we will use Farmer's Delight                              |
+| [Stuff 'N Additions](https://modrinth.com/mod/create-stuff-additions)                                             |      ✅       |                                                              |
+| [Design n' Decor](https://modrinth.com/mod/create-design-n-decor)                                                 |      ✅       |                                                              |
+| [🟠 Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)                              |      ✅       |                                                              |
+| [Escalated](https://modrinth.com/mod/escalated)                                                                   |      ✅       |                                                              |
+| [Waystone Recipes](https://modrinth.com/mod/create-waystones-recipes)                                             |      ✅       | If Waystones will be added                                   |
+| [Encased](https://modrinth.com/mod/create-encased)                                                                |      ✅       |                                                              |
+| [Sophisticated Backpacks Create Integration](https://modrinth.com/mod/sophisticated-backpacks-create-integration) |      ✅       |                                                              |
+| [Slice & Dice](https://modrinth.com/mod/slice-and-dice)                                                           |      ✅       | If we will use Farmer's Delight                              |
+| [🟠 New Furnitures](https://www.curseforge.com/minecraft/mc-mods/create-new-furnitures)                           |      ✅       | Looks nice, but placement is kinda half-baked.               |
+| [Ore Excavation](https://modrinth.com/mod/create-ore-excavation)                                                  |      ✅       | Balance should be discussed                                  |
+| [Compressed](https://modrinth.com/mod/create-compressed)                                                          |      ✅       | If this works with Functional Drawers then it is pretty good |
+| [Better Villagers](https://modrinth.com/mod/create-better-villagers)                                              |      ✅       |                                                              |
+| [Hypertubes](https://modrinth.com/mod/hypertube)                                                                  |      ✅       | Looks quite fun                                              |
+| [Integrated Farming](https://modrinth.com/mod/create-integrated-farming)                                          |      ✅       | If we will use Farmer's Delight                              |
 
 ## Core Mods
 
@@ -58,7 +64,6 @@ permalink: /minecraft-wishlist
 | [Functional Storage](https://modrinth.com/mod/functional-storage)                                  |      ✅       | Drawers!                                                                              |
 | [Supplementaries](https://modrinth.com/mod/supplementaries)                                        |      ✅       | Crash on using Safes?                                                                 |
 | [Amendments](https://modrinth.com/mod/amendments)                                                  |      ✅       |                                                                                       |
-| [Ad Astra](https://modrinth.com/mod/ad-astra)                                                      |   ❌1.20.4❌   | Still no news                                                                         |
 | [🟠 Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) |      ✅       |                                                                                       |
 | [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)                                |      ✅       |                                                                                       |
 | [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)                                      |      ✅       |                                                                                       |
@@ -91,7 +96,7 @@ permalink: /minecraft-wishlist
 | [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)                                |       |
 | [Eclectic Trove (Legendary Tooltips)](https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips) |       |
 
-## Modpack Tools
+## Modpack Tools (not required)
 
 | Mod                                                              | Neo (1.21.1) | Notes    |
 | ---------------------------------------------------------------- | :----------: | -------- |
