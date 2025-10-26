@@ -20,7 +20,7 @@ permalink: /minecraft-wishlist
 | [Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)                                      |      ✅       |                                                                                              |
 | [⚠️ Estrogen](https://modrinth.com/mod/estrogen)                                                                     |   ❌1.20.1❌   | Progress on [Github](https://github.com/MayaqqDev/Estrogen/)                                 |
 | [Interiors](https://modrinth.com/mod/interiors)                                                                   |   ❌1.20.1❌   | Still no news                                                                                |
-| [⚠️ New Age](https://modrinth.com/mod/create-new-age)                                                                |   ❌1.20.1❌   | Progress on [Gitlab](https://gitlab.com/antarcticgardens/create-new-age/-/tree/1.21.1)       |
+| [New Age](https://modrinth.com/mod/create-new-age)                                                                |   ✅   |        |
 | [⚠️ Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)                                                  |   ❌1.20.1❌   | Beta for 1.20.1 ([Github](https://github.com/Layers-of-Railways/Railway)), no news on 1.21.1 |
 | [Power Loader](https://modrinth.com/mod/create-power-loader)                                                      |      ✅       |                                                                                              |
 | [Central Kitchen](https://modrinth.com/mod/create-central-kitchen)                                                |      ✅       | If we will use Farmer's Delight                                                              |
