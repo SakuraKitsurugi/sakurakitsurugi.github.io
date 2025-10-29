@@ -3,6 +3,9 @@ title: VS Modpack
 layout: default
 permalink: /vintage-story
 ---
+# Modpack will be for 1.22 (Some testing on 1.21.5)
+⚠️ - Mod Incompatibility / Severe Issues Detected
+🟠 - Incompatible with 1.22
 
 ## Core / Unspecified
 
