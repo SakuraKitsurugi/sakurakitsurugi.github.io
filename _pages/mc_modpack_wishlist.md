@@ -5,7 +5,7 @@ permalink: /minecraft-wips
 ---
 ✅ ❌ ⚠️ 🟠 - Available/Unavailable/Caveat/Curseforge
 
-## Update Waiting
+## **Update Waiting**
 
 | Mod                                                                 | Type         | Neo (1.21.1) | Notes                                                                                        |
 | ------------------------------------------------------------------- | ------------ | :----------: | -------------------------------------------------------------------------------------------- |
@@ -15,8 +15,7 @@ permalink: /minecraft-wips
 | [Interiors](https://modrinth.com/mod/interiors)                     | Create Addon |   ❌1.20.1❌   | Still no news                                                                                |
 | [Ad Astra](https://modrinth.com/mod/ad-astra)                       | Core         |   ❌1.20.4❌   | Still no news                                                                                |
 
-## Create Addons
-[⚠️ 6.0 Compatibility ⚠️](https://docs.google.com/spreadsheets/d/1sEK9lDrp5nT00MzR6mSGFQzcq04kdcioGFuKwIqiavg/edit?gid=1602557590#gid=1602557590)
+## **Create Addons**
 
 | Mod                                                                                                               | Neo (1.21.1) | Notes                                                        |
 | ----------------------------------------------------------------------------------------------------------------- | :----------: | ------------------------------------------------------------ |
@@ -44,7 +43,7 @@ permalink: /minecraft-wips
 | [Hypertubes](https://modrinth.com/mod/hypertube)                                                                  |      ✅       | Looks quite fun                                              |
 | [Integrated Farming](https://modrinth.com/mod/create-integrated-farming)                                          |      ✅       | If we will use Farmer's Delight                              |
 
-## Core Mods
+## **Core Mods**
 
 | Mod                                                                                                | Neo (1.21.1) | Notes                                                                                 |
 | -------------------------------------------------------------------------------------------------- | :----------: | ------------------------------------------------------------------------------------- |
@@ -72,7 +71,7 @@ permalink: /minecraft-wips
 | [Relics](https://modrinth.com/mod/relics-mod)                                                      |      ✅       |                                                                                       |
 | [Relics: Artifacts Compat](https://modrinth.com/mod/rar-compat)                                    |      ✅       |                                                                                       |
 
-## Client-Side Mods
+## **Client-Side Mods**
 
 | Mod                                                                                     | Neo (1.21.1) | Notes                                                                                        |
 | --------------------------------------------------------------------------------------- | :----------: | :------------------------------------------------------------------------------------------- |
@@ -87,7 +86,7 @@ permalink: /minecraft-wips
 | [Blur+](https://modrinth.com/mod/blur-plus)                                             |      ⚠️      | Seems to be broken as of 2025-06-22                                                          |
 | [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)                     |      ✅       | Fine, but maybe over-the-top for my modpack?                                                 |
 
-## Resource Packs
+## **Resource Packs**
 
 | Name                                                                                                       | Notes |
 | ---------------------------------------------------------------------------------------------------------- | ----- |
@@ -96,7 +95,7 @@ permalink: /minecraft-wips
 | [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)                                |       |
 | [Eclectic Trove (Legendary Tooltips)](https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips) |       |
 
-## Modpack Tools (not required)
+## **Modpack Tools (not required)**
 
 | Mod                                                              | Neo (1.21.1) | Notes    |
 | ---------------------------------------------------------------- | :----------: | -------- |
@@ -107,28 +106,28 @@ permalink: /minecraft-wips
 | [Item Obliterator](https://modrinth.com/mod/item-obliterator)    |      ✅       |          |
 | [Observable](https://modrinth.com/mod/observable)                |      ✅       |          |
 
-## Others/Recommendations I did not check/test yet.
+## **Others/Recommendations I did not check/test yet.**
 
-### 1. Create Addons
+### **1. Create Addons**
 
 | Mod | Neo (1.21.1) | Notes |
 | --- | :----------: | ----- |
 |     |              |       |
 
-### 2. Client-side Mods
+### **2. Client-side Mods**
 
 | Mod                                                            | Neo (1.21.1) | Notes |
 | -------------------------------------------------------------- | :----------: | ----- |
 | [Traveler's Titles](https://modrinth.com/mod/travelers-titles) |      ✅       |       |
 
-### 3. Purely blocks/funiture:
+### **3. Purely blocks/funiture:**
 
 | Mod                                                 | Neo (1.21.1) | Notes |
 | --------------------------------------------------- | :----------: | ----- |
 | Macaw's Mods (?)                                    |      -       |       |
 | [Handcrafted](https://modrinth.com/mod/handcrafted) |      ✅       |       |
 
-### 4. World Generation:
+### **4. World Generation:**
 
 | Mod                                                                   | Neo (1.21.1) | Notes                                         |
 | --------------------------------------------------------------------- | :----------: | --------------------------------------------- |
@@ -141,7 +140,7 @@ permalink: /minecraft-wips
 |                                                                       |              | The End                                       |
 |                                                                       |              | Nether                                        |
 
-### 6. Funny, but do not think they fit:
+### **5. Funny, but do not think they fit:**
 
 | Mod                                                                  | Neo (1.21.1) | Notes                                                                                                                                                         |
 | -------------------------------------------------------------------- | :----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |

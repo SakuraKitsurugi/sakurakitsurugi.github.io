@@ -3,8 +3,8 @@ title: MC Modpack
 layout: default
 permalink: /
 ---
-# Modpack will use NeoForge 1.21.1
-## Core [^1]
+# **Modpack will use NeoForge 1.21.1**
+## **Core** [^1]
 
 | Mod                                                       |  Type   | Modification Notes |
 | :-------------------------------------------------------- | :-----: | :----------------: |
@@ -14,7 +14,7 @@ permalink: /
 | [Jade Addons](https://modrinth.com/mod/jade-addons-forge) | Utility |                    |
 | [Curios API](https://modrinth.com/mod/curios)             |   API   |                    |
 
-## Client-side (Mods)[^2]
+## **Client-side (Mods)** [^2]
 
 | Mod                                                                                                                                         |     Type     | Modification Notes |
 | :------------------------------------------------------------------------------------------------------------------------------------------ | :----------: | :----------------: |
@@ -46,14 +46,14 @@ permalink: /
 | [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded)                                                             |    Visual    |                    |
 | [🟠 Configured](https://www.curseforge.com/minecraft/mc-mods/configured)                                                                    |   Utility    |                    |
 
-## Client-side (Resource/Shader Packs)[^2]
+## **Client-side (Resource/Shader Packs)** [^2]
 
 | Name                                                                   |     Type      |
 | :--------------------------------------------------------------------- | :-----------: |
 | [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) | Resource Pack |
 | [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-moves)      | Resource Pack |
 
-## Server-side[^3]
+## **Server-side** [^3]
 
 | Mod                                                                               |     Type     | Modification Notes |
 | :-------------------------------------------------------------------------------- | :----------: | :----------------: |
@@ -66,7 +66,7 @@ permalink: /
 | [NetherPortalFix](https://modrinth.com/mod/netherportalfix)                       |    Bugfix    |                    |
 | [ServerCore](https://modrinth.com/mod/servercore)                                 | Optimization |                    |
 
-## Server-core[^4]
+## **Server-core** [^4]
 
 | Mod                                                              |  Type   | Modification Notes |
 | :--------------------------------------------------------------- | :-----: | :----------------: |

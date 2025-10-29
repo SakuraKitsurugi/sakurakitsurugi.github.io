@@ -3,11 +3,11 @@ title: VS Modpack
 layout: default
 permalink: /vintage-story
 ---
-# Modpack will be for 1.22 (Some testing on 1.21.5)
-⚠️ - Mod Incompatibility / Severe Issues Detected
-🟠 - Incompatible with 1.22
+# **Modpack will be for 1.22 (Some testing on 1.21.5)**
+⚠️ - Mod Incompatibility / Severe Issues Detected;
+🟠 - Incompatible with 1.22;
 
-## Core / Unspecified
+## **Core / Unspecified**
 
 | ID                     | Name                                                                                                                | Checked Version | Newest Version        | Up to Date |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------- | --------------------- | ---------- |
@@ -56,7 +56,7 @@ permalink: /vintage-story
 | wildfarmingrevival     | [Wild Farming - Revival](https://mods.vintagestory.at/show/mod/6102)                                                | 1.4.0           | 1.4.2 (1.21.5)        | ❌          |
 | xskills                | [XSkills](https://mods.vintagestory.at/show/mod/247)                                                                | 0.9.0-pre.2     | 0.9.0-pre.2 (1.21.0)  | ✅          |
 
-## QoL
+## **QoL**
 
 | ID                      | Name                                                                              | Checked Version | Newest Version  | Up to Date |
 | ----------------------- | --------------------------------------------------------------------------------- | --------------- | --------------- | ---------- |
@@ -82,7 +82,7 @@ permalink: /vintage-story
 | zoombuttonreborn | [Zoom Button - Reborn](https://mods.vintagestory.at/show/mod/1820) | 2.0.0 | 2.0.0 (1.21.5) | ✅ |
 | zrustdrops | [Rust Drops](https://mods.vintagestory.at/show/mod/24348) | 2.0.0 | 2.0.0 (1.21.1) | ✅ |
 
-## World Generation
+## **World Generation**
 
 | ID            | Name                                                                                | Checked Version | Newest Version | Up to Date |
 | ------------- | ----------------------------------------------------------------------------------- | --------------- | -------------- | ---------- |
@@ -93,7 +93,7 @@ permalink: /vintage-story
 | th3dungeon | [Ancient Dungeons (Th3Dungeon)](https://mods.vintagestory.at/show/mod/5215) | 0.4.4 | 0.4.4 (1.21.5) | ✅ |
 | rivers | [Rivers](https://mods.vintagestory.at/show/mod/9360) | 4.7.3 | 4.7.3 (1.21.1) | ✅ |
 
-## Visual / Auditory
+## **Visual / Auditory**
 
 | ID                          | Name                                                                                   | Checked Version | Newest Version        | Up to Date |
 | --------------------------- | -------------------------------------------------------------------------------------- | --------------- | --------------------- | ---------- |
@@ -108,7 +108,7 @@ permalink: /vintage-story
 | simplefootstepsredux | [Simple Footsteps Redux](https://mods.vintagestory.at/show/mod/13073) | 1.0.4 | 1.0.4 (1.21.1) | ✅ |
 | temporalsymphony | [Salty & Proto's Temporal Symphony](https://mods.vintagestory.at/show/mod/24868) | 2.2.2 | 2.2.2 (1.21.5) | ✅ |
 
-## Tweaks / Mod Patches
+## **Tweaks / Mod Patches**
 
 | ID                            | Name                                                                                                                | Checked Version | Newest Version | Up to Date |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------- | -------------- | ---------- |
@@ -120,16 +120,16 @@ permalink: /vintage-story
 | th3dungeontopentrance | [Th3DungeonTopEntrance](https://mods.vintagestory.at/show/mod/11360) | 0.4.1 | 0.4.1 (1.21.0) | ✅ |
 | psredux | [Primitive Survival: Redux](https://mods.vintagestory.at/show/mod/18776) | 4.0.3 | 4.0.3 (1.21.0) | ✅ |
 
-## Libraries
+## **Libraries**
 
 | ID                        | Name                                                                         | Checked Version | Newest Version       | Up to Date |
 | ------------------------- | ---------------------------------------------------------------------------- | --------------- | -------------------- | ---------- |
-| attributerenderinglibrary | [Attribute Rendering Library](https://mods.vintagestory.at/show/mod/26831) | 2.3.0 | 2.3.0 (1.21.5) | ✅ |
-| autoconfiglib | [Auto Config Lib](https://mods.vintagestory.at/show/mod/17281) | 2.0.9 | 2.0.9 (1.21.1) | ✅ |
-| commonlib | [Common Lib](https://mods.vintagestory.at/show/mod/5457) | 2.8.0 | 2.8.0 (1.21.1) | ✅ |
-| configlib | [Config lib](https://mods.vintagestory.at/show/mod/9551) | 1.10.8 | 1.10.8 (1.21.5) | ✅ |
-| em | [Expanded Matter](https://mods.vintagestory.at/show/mod/2086) | 3.3.3 | 3.3.3 (1.21.5) | ✅ |
-| jaunt | [Jaunt: Entity Movement System](https://mods.vintagestory.at/show/mod/25170) | 2.1.1 | 2.1.1 (1.21.4) | ✅ |
-| playermodellib | [Player Model lib](https://mods.vintagestory.at/show/mod/23112) | 1.2.1 | 1.4.1 (1.21.5) | ❌ |
-| vsimgui | [ImGui](https://mods.vintagestory.at/show/mod/9329) | 1.1.14 | 1.1.14 (1.21.5) | ✅ |
-| xlib | [XLib](https://mods.vintagestory.at/show/mod/244) | 0.9.0-pre.2 | 0.9.0-pre.2 (1.21.0) | ✅ |
+| attributerenderinglibrary | [Attribute Rendering Library](https://mods.vintagestory.at/show/mod/26831)   | 2.3.0           | 2.3.0 (1.21.5)       | ✅          |
+| autoconfiglib             | [Auto Config Lib](https://mods.vintagestory.at/show/mod/17281)               | 2.0.9           | 2.0.9 (1.21.1)       | ✅          |
+| commonlib                 | [Common Lib](https://mods.vintagestory.at/show/mod/5457)                     | 2.8.0           | 2.8.0 (1.21.1)       | ✅          |
+| configlib                 | [Config lib](https://mods.vintagestory.at/show/mod/9551)                     | 1.10.8          | 1.10.8 (1.21.5)      | ✅          |
+| em                        | [Expanded Matter](https://mods.vintagestory.at/show/mod/2086)                | 3.3.3           | 3.3.3 (1.21.5)       | ✅          |
+| jaunt                     | [Jaunt: Entity Movement System](https://mods.vintagestory.at/show/mod/25170) | 2.1.1           | 2.1.1 (1.21.4)       | ✅          |
+| playermodellib            | [Player Model lib](https://mods.vintagestory.at/show/mod/23112)              | 1.2.1           | 1.4.1 (1.21.5)       | ❌          |
+| vsimgui                   | [ImGui](https://mods.vintagestory.at/show/mod/9329)                          | 1.1.14          | 1.1.14 (1.21.5)      | ✅          |
+| xlib                      | [XLib](https://mods.vintagestory.at/show/mod/244)                            | 0.9.0-pre.2     | 0.9.0-pre.2 (1.21.0) | ✅          |
