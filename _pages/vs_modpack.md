@@ -26,7 +26,6 @@ permalink: /vintage-story
 | fseraph                | [Female Seraph](https://mods.vintagestory.at/show/mod/23019)                                                        | 0.4.4           | 0.4.5 (1.21.5)        | ❌          |
 | foodshelves            | [Food Shelves](https://mods.vintagestory.at/show/mod/13865)                                                         | 2.3.2           | 2.3.2 (1.21.5)        | ✅          |
 | JustTrapdoors          | [Just Trapdoors](https://mods.vintagestory.at/show/mod/17173)                                                       | 1.0.2           | 1.0.2 (1.20.0-rc.9)   | ✅          |
-| kevinsfurniture        | [Kevins Furniture](https://mods.vintagestory.at/show/mod/12269)                                                     | 1.7.5           | 1.7.5 (1.21.4)        | ✅          |
 | medievalexpansionpatch | [Medieval expansion patch ](https://mods.vintagestory.at/show/mod/18271)                                            | 1.3.4           | 1.3.4 (1.21.5)        | ✅          |
 | meteoricexpansion      | [Meteoric Expansion](https://mods.vintagestory.at/show/mod/78)                                                      | 1.2.6           | 1.2.6 (1.21.1)        | ✅          |
 | millwright             | [Millwright](https://mods.vintagestory.at/show/mod/7016)                                                            | 1.2.9           | 1.3.0 (1.21.5)        | ❌          |

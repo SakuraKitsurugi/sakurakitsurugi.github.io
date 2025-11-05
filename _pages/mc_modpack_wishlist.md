@@ -7,19 +7,19 @@ permalink: /minecraft-wips
 
 ## **Update Waiting**
 
-| Mod                                                                 | Type         | Neo (1.21.1) | Notes                                                                                        |
-| ------------------------------------------------------------------- | ------------ | :----------: | -------------------------------------------------------------------------------------------- |
-| [Deco](https://modrinth.com/mod/create-deco)                        | Create Addon |   ❌1.20.1❌   | Progress on [Github](https://github.com/talrey/CreateDeco/tree/1.21-neo)                     |
-| [⚠️ Estrogen](https://modrinth.com/mod/estrogen)                    | Create Addon |   ❌1.20.1❌   | Progress on [Github](https://github.com/MayaqqDev/Estrogen/), but for 1.21.1 will have to wait for Create Fabric 1.21.1 first. |
-| [⚠️ Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | Create Addon |   ❌1.20.1❌   | Beta for 1.20.1 ([Github](https://github.com/Layers-of-Railways/Railway)), no news on 1.21.1 |
-| [Interiors](https://modrinth.com/mod/interiors)                     | Create Addon |   ❌1.20.1❌   | Still no news                                                                                |
-| [Ad Astra](https://modrinth.com/mod/ad-astra)                       | Core         |   ❌1.20.4❌   | Still no news                                                                                |
+| Mod (⚠️ - must have)                                                | Neo (1.21.1) | Notes                                                                                                                          |
+| ------------------------------------------------------------------- | :----------: | ------------------------------------------------------------------------------------------------------------------------------ |
+| [⚠️ Estrogen](https://modrinth.com/mod/estrogen)                    |   ❌1.20.1❌   | Progress on [Github](https://github.com/MayaqqDev/Estrogen/), but for 1.21.1 will have to wait for Create Fabric 1.21.1 first. |
+| [⚠️ Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) |   ❌1.20.1❌   | Beta for 1.20.1 ([Github](https://github.com/Layers-of-Railways/Railway)), no news on 1.21.1                                   |
+| [Interiors](https://modrinth.com/mod/interiors)                     |   ❌1.20.1❌   | Still no news                                                                                                                  |
+| [Ad Astra](https://modrinth.com/mod/ad-astra)                       |   ❌1.20.4❌   | Still no news                                                                                                                  |
 
 ## **Create Addons**
 
 | Mod                                                                                                               | Neo (1.21.1) | Notes                                                        |
 | ----------------------------------------------------------------------------------------------------------------- | :----------: | ------------------------------------------------------------ |
 | [Cobblestone](https://modrinth.com/mod/create-cobblestone)                                                        |      ✅       |                                                              |
+| [Deco](https://modrinth.com/mod/create-deco)                                                                      |      ✅       |                                                              |
 | [Crafts & Addtitions](https://modrinth.com/mod/createaddition)                                                    |      ✅       |                                                              |
 | [Railways Navigator](https://modrinth.com/mod/create-railways-navigator)                                          |      ✅       |                                                              |
 | [Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)                                                     |      ✅       |                                                              |
