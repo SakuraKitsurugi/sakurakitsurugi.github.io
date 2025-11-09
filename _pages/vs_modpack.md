@@ -87,7 +87,6 @@ permalink: /vintage-story
 | -------------------- | -------------------------------------------------------------------------------- | --------------- | --------------------- | ---------- |
 | BetterGrass          | [R.Better grass](https://mods.vintagestory.at/show/mod/4038)                     | 0.0.3           | 0.0.3 (1.21.1-rc.1)   | ✅          |
 | darcesdriftersredone | [Darce's Drifters Redone](https://mods.vintagestory.at/show/mod/25180)           | 1.2.4           | 1.2.4-pre.1 (1.20.12) | ✅          |
-| immersivelanterns    | [SaltyÂ´s Immersive: Lanterns](https://mods.vintagestory.at/show/mod/30235)      | 0.2.8           | 0.2.9 (1.21.5)        | ❌          |
 | moreiconscs          | [More Map Icons (Client + Server)](https://mods.vintagestory.at/show/mod/8748)   | 1.1.1           | 1.1.1 (1.21.1)        | ✅          |
 | simplefootstepsredux | [Simple Footsteps Redux](https://mods.vintagestory.at/show/mod/13073)            | 1.0.4           | 1.0.4 (1.21.1)        | ✅          |
 | temporalsymphony     | [Salty & Proto's Temporal Symphony](https://mods.vintagestory.at/show/mod/24868) | 2.2.2           | 2.2.2 (1.21.5)        | ✅          |
